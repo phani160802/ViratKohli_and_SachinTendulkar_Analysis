@@ -1,0 +1,783 @@
+,Runs,Mins,BF,4s,6s,SR,Pos,Dismissal,Inns,Opposition,Ground,Match Type,Date,Player ID
+0,15,28,24,2,0,62.5,6,bowled,2,Pakistan,Karachi,Test ,15-11-1989,1
+2,59,254,172,4,0,34.3,6,lbw,1,Pakistan,Faisalabad,Test ,23-11-1989,1
+3,8,24,16,1,0,50,6,run out,3,Pakistan,Faisalabad,Test ,23-11-1989,1
+4,41,124,90,5,0,45.55,7,bowled,1,Pakistan,Lahore,Test ,01-12-1989,1
+5,35,74,51,5,0,68.62,6,lbw,1,Pakistan,Sialkot,Test ,09-12-1989,1
+6,57,193,134,6,0,42.53,6,caught,3,Pakistan,Sialkot,Test ,09-12-1989,1
+7,0,-,2,0,0,0,5,caught,2,Pakistan,Gujranwala,ODI ,18-12-1989,1
+8,0,1,1,0,0,0,6,caught,2,New Zealand,Christchurch,Test ,02-02-1990,1
+9,24,50,44,3,0,54.54,6,caught,3,New Zealand,Christchurch,Test ,02-02-1990,1
+10,88,324,266,5,0,33.08,6,caught,1,New Zealand,Napier,Test ,09-02-1990,1
+11,5,15,13,1,0,38.46,6,caught,2,New Zealand,Auckland,Test ,22-02-1990,1
+13,0,2,2,0,0,0,5,caught,2,New Zealand,Dunedin,ODI ,01-03-1990,1
+14,36,51,39,5,0,92.3,6,caught,1,New Zealand,Wellington,ODI ,06-03-1990,1
+15,10,-,12,0,0,83.33,5,run out,1,Sri Lanka,Sharjah,ODI ,25-04-1990,1
+16,20,-,25,1,0,80,7,caught,2,Pakistan,Sharjah,ODI ,27-04-1990,1
+17,19,38,35,1,1,54.28,4,bowled,2,England,Leeds,ODI ,18-07-1990,1
+18,31,31,26,3,0,119.23,6,bowled,2,England,Nottingham,ODI ,20-07-1990,1
+19,10,30,19,1,0,52.63,6,bowled,2,England,Lord's,Test ,26-07-1990,1
+20,27,93,65,4,0,41.53,6,caught,4,England,Lord's,Test ,26-07-1990,1
+21,68,216,136,8,0,50,6,caught,2,England,Manchester,Test ,09-08-1990,1
+22,119,225,189,17,0,62.96,6,not out,4,England,Manchester,Test ,09-08-1990,1
+23,21,39,30,3,0,70,7,caught,1,England,The Oval,Test ,23-08-1990,1
+24,11,92,-,-,0,-,6,lbw,1,Sri Lanka,Chandigarh,Test ,23-11-1990,1
+25,36,-,22,3,2,163.63,5,bowled,1,Sri Lanka,Nagpur,ODI ,01-12-1990,1
+26,53,-,41,7,1,129.26,5,bowled,2,Sri Lanka,Pune,ODI ,05-12-1990,1
+27,30,-,29,1,2,103.44,5,caught,1,Sri Lanka,Margao,ODI ,08-12-1990,1
+29,4,-,11,0,0,36.36,5,lbw,2,Sri Lanka,Cuttack,ODI ,28-12-1990,1
+30,53,-,70,2,0,75.71,4,lbw,2,Sri Lanka,Eden Gardens,ODI ,04-01-1991,1
+31,52,-,40,5,0,130,5,not out,1,Pakistan,Sharjah,ODI ,18-10-1991,1
+32,22,-,27,3,0,81.48,5,run out,1,West Indies,Sharjah,ODI ,19-10-1991,1
+33,11,-,27,1,0,40.74,5,not out,2,West Indies,Sharjah,ODI ,22-10-1991,1
+34,49,-,38,3,2,128.94,5,caught,2,Pakistan,Sharjah,ODI ,23-10-1991,1
+35,0,-,1,0,0,0,5,lbw,2,Pakistan,Sharjah,ODI ,25-10-1991,1
+36,62,-,73,8,1,84.93,4,caught,2,South Africa,Eden Gardens,ODI ,10-11-1991,1
+37,4,-,8,0,0,50,4,caught,1,South Africa,Gwalior,ODI ,12-11-1991,1
+38,1,-,3,0,0,33.33,4,caught,1,South Africa,New Delhi,ODI ,14-11-1991,1
+39,16,47,42,3,0,38.09,6,bowled,1,Australia,Brisbane,Test ,29-11-1991,1
+40,7,36,25,1,0,28,6,caught,3,Australia,Brisbane,Test ,29-11-1991,1
+41,1,14,9,0,0,11.11,4,caught,1,West Indies,Perth,ODI ,06-12-1991,1
+42,36,79,65,3,0,55.38,4,caught,1,Australia,Perth,ODI ,08-12-1991,1
+43,57,111,107,3,0,53.27,4,caught,1,Australia,Hobart,ODI ,10-12-1991,1
+44,48,62,57,2,0,84.21,4,caught,1,West Indies,Adelaide,ODI ,14-12-1991,1
+45,21,38,35,3,0,60,4,caught,1,Australia,Adelaide,ODI ,15-12-1991,1
+46,15,33,23,0,0,65.21,7,caught,1,Australia,Melbourne,Test ,26-12-1991,1
+47,40,122,107,5,0,37.38,7,caught,3,Australia,Melbourne,Test ,26-12-1991,1
+48,148,298,213,14,0,69.48,6,not out,2,Australia,Sydney,Test ,02-01-1992,1
+49,77,157,127,5,0,60.62,4,caught,1,West Indies,Brisbane,ODI ,11-01-1992,1
+50,31,64,44,1,0,70.45,5,run out,1,Australia,Sydney,ODI ,14-01-1992,1
+51,57,118,88,2,0,64.77,4,not out,2,West Indies,Melbourne,ODI ,16-01-1992,1
+52,4,12,10,0,0,40,4,caught,2,Australia,Melbourne,ODI ,18-01-1992,1
+53,69,116,100,3,0,69,4,caught,2,Australia,Sydney,ODI ,20-01-1992,1
+54,6,20,8,1,0,75,6,lbw,2,Australia,Adelaide,Test ,25-01-1992,1
+55,17,36,29,2,0,58.62,4,lbw,4,Australia,Adelaide,Test ,25-01-1992,1
+56,114,228,161,16,0,70.8,4,caught,2,Australia,Perth,Test ,01-02-1992,1
+57,5,12,9,1,0,55.55,4,caught,4,Australia,Perth,Test ,01-02-1992,1
+58,35,51,44,5,0,79.54,4,caught,2,England,Perth,ODI ,22-02-1992,1
+60,11,19,19,1,0,57.89,4,caught,2,Australia,Brisbane,ODI ,01-03-1992,1
+61,54,91,62,3,0,87.09,5,not out,1,Pakistan,Sydney,ODI ,04-03-1992,1
+62,81,88,77,8,1,105.19,4,caught,1,Zimbabwe,Hamilton,ODI ,07-03-1992,1
+63,4,11,11,0,0,36.36,4,caught,1,West Indies,Wellington,ODI ,10-03-1992,1
+64,84,122,107,6,0,78.5,4,caught,1,New Zealand,Dunedin,ODI ,12-03-1992,1
+65,14,14,14,1,0,100,4,caught,1,South Africa,Adelaide,ODI ,15-03-1992,1
+66,0,4,3,0,0,0,4,caught,2,Zimbabwe,Harare,Test ,18-10-1992,1
+67,39,92,56,7,0,69.64,4,caught,1,Zimbabwe,Harare,ODI ,25-10-1992,1
+68,11,35,24,1,0,45.83,4,run out,2,South Africa,Durban,Test ,13-11-1992,1
+69,111,373,270,19,0,41.11,4,caught,2,South Africa,Johannesburg,Test ,26-11-1992,1
+70,1,6,5,0,0,20,4,lbw,4,South Africa,Johannesburg,Test ,26-11-1992,1
+71,15,-,27,1,0,55.55,4,bowled,1,South Africa,Cape Town,ODI ,07-12-1992,1
+72,10,-,36,0,0,27.77,4,caught,1,South Africa,Gqeberha,ODI ,09-12-1992,1
+73,22,-,24,2,0,91.66,5,caught,2,South Africa,Centurion,ODI ,11-12-1992,1
+74,21,-,44,1,0,47.72,5,caught,1,South Africa,Johannesburg,ODI ,13-12-1992,1
+75,32,-,52,1,0,61.53,5,bowled,1,South Africa,Bloemfontein,ODI ,15-12-1992,1
+76,23,-,39,0,0,58.97,5,caught,2,South Africa,Durban,ODI ,17-12-1992,1
+77,21,-,38,3,0,55.26,3,caught,2,South Africa,East London,ODI ,19-12-1992,1
+78,6,27,17,1,0,35.29,4,caught,1,South Africa,Gqeberha,Test ,26-12-1992,1
+79,0,1,1,0,0,0,4,caught,3,South Africa,Gqeberha,Test ,26-12-1992,1
+80,73,272,208,8,1,35.09,5,caught,2,South Africa,Cape Town,Test ,02-01-1993,1
+82,82,116,81,6,1,101.23,5,not out,1,England,Jaipur,ODI ,18-01-1993,1
+83,1,9,5,0,0,20,5,lbw,2,England,Chandigarh,ODI ,21-01-1993,1
+84,50,158,118,6,0,42.37,4,caught,1,England,Eden Gardens,Test ,29-01-1993,1
+85,9,17,19,2,0,47.36,4,not out,4,England,Eden Gardens,Test ,29-01-1993,1
+86,165,361,296,24,1,55.74,4,caught,1,England,Chennai,Test ,11-02-1993,1
+87,78,285,213,10,0,36.61,4,lbw,2,England,Wankhede,Test ,19-02-1993,1
+88,3,7,6,0,0,50,4,caught,2,England,Bengaluru,ODI ,26-02-1993,1
+89,24,42,32,1,0,75,4,bowled,1,England,Jamshedpur,ODI ,01-03-1993,1
+90,5,7,6,1,0,83.33,5,bowled,2,England,Gwalior,ODI ,04-03-1993,1
+91,34,42,30,2,1,113.33,5,caught,2,England,Gwalior,ODI ,05-03-1993,1
+92,62,128,114,7,0,54.38,4,caught,1,Zimbabwe,Delhi,Test ,13-03-1993,1
+93,3,16,9,0,0,33.33,5,caught,1,Zimbabwe,Faridabad,ODI ,19-03-1993,1
+94,8,8,6,0,0,133.33,5,not out,2,Zimbabwe,Guwahati,ODI ,22-03-1993,1
+97,21,-,39,1,0,53.84,5,caught,1,Sri Lanka,Colombo (RPS),ODI ,25-07-1993,1
+98,28,74,52,5,0,53.84,4,caught,1,Sri Lanka,Colombo (SSC),Test ,27-07-1993,1
+99,104,217,161,11,1,64.59,4,not out,3,Sri Lanka,Colombo (SSC),Test ,27-07-1993,1
+100,71,202,152,10,0,46.71,4,caught,2,Sri Lanka,Colombo (PSS),Test ,04-08-1993,1
+101,15,-,30,0,0,50,5,run out,2,Sri Lanka,Colombo (RPS),ODI ,12-08-1993,1
+102,25,-,39,1,0,64.1,5,caught,1,Sri Lanka,Moratuwa,ODI ,14-08-1993,1
+103,26,-,30,4,0,86.66,5,not out,2,Sri Lanka,Kanpur,ODI ,07-11-1993,1
+104,2,-,8,0,0,25,5,lbw,2,West Indies,Ahmedabad,ODI ,16-11-1993,1
+105,24,22,16,1,1,150,6,caught,1,Zimbabwe,Indore,ODI ,18-11-1993,1
+106,3,-,25,0,0,12,4,caught,1,South Africa,Mohali,ODI ,22-11-1993,1
+107,15,-,31,3,0,48.38,5,caught,1,South Africa,Eden Gardens,ODI ,24-11-1993,1
+108,28,-,43,2,0,65.11,5,not out,1,West Indies,Eden Gardens,ODI ,27-11-1993,1
+109,142,260,224,22,0,63.39,4,caught,1,Sri Lanka,Lucknow,Test ,18-01-1994,1
+110,96,180,140,15,0,68.57,4,bowled,1,Sri Lanka,Bengaluru,Test ,26-01-1994,1
+111,6,25,14,1,0,42.85,4,bowled,2,Sri Lanka,Ahmedabad,Test ,08-02-1994,1
+112,1,10,5,0,0,20,5,caught,1,Sri Lanka,Rajkot,ODI ,15-02-1994,1
+113,11,25,18,0,0,61.11,5,not out,2,Sri Lanka,Hyderabad (Deccan),ODI ,18-02-1994,1
+114,52,83,63,3,0,82.53,5,run out,1,Sri Lanka,Jalandhar,ODI ,20-02-1994,1
+115,43,55,47,7,0,91.48,4,caught,2,New Zealand,Hamilton,Test ,19-03-1994,1
+116,11,57,42,0,0,26.19,4,not out,4,New Zealand,Hamilton,Test ,19-03-1994,1
+117,15,22,19,1,0,78.94,5,caught,2,New Zealand,Napier,ODI ,25-03-1994,1
+118,82,69,49,15,2,167.34,2,caught,2,New Zealand,Auckland,ODI ,27-03-1994,1
+119,63,91,75,9,0,84,2,lbw,1,New Zealand,Wellington,ODI ,30-03-1994,1
+120,40,34,26,8,0,153.84,2,bowled,1,New Zealand,Christchurch,ODI ,02-04-1994,1
+121,63,125,77,7,1,81.81,2,caught,1,U.A.E.,Sharjah,ODI ,13-04-1994,1
+122,73,96,64,10,3,114.06,2,caught,1,Pakistan,Sharjah,ODI ,15-04-1994,1
+123,6,12,7,1,0,85.71,2,caught,2,Australia,Sharjah,ODI ,19-04-1994,1
+124,24,59,26,4,0,92.3,2,caught,2,Pakistan,Sharjah,ODI ,22-04-1994,1
+125,11,-,16,2,0,68.75,2,not out,1,Sri Lanka,Colombo (RPS),ODI ,04-09-1994,1
+126,6,13,5,0,0,120,2,caught,1,Sri Lanka,Colombo (RPS),ODI ,05-09-1994,1
+127,110,186,130,8,2,84.61,2,bowled,1,Australia,Colombo (RPS),ODI ,09-09-1994,1
+128,0,6,2,0,0,0,2,caught,2,Sri Lanka,Colombo (SSC),ODI ,17-09-1994,1
+129,0,3,4,0,0,0,2,caught,2,West Indies,Faridabad,ODI ,17-10-1994,1
+130,0,7,4,0,0,0,2,caught,2,West Indies,Wankhede,ODI ,20-10-1994,1
+131,8,28,24,0,0,33.33,3,caught,2,West Indies,Chennai,ODI ,23-10-1994,1
+132,115,184,136,9,3,84.55,2,run out,2,New Zealand,Vadodara,ODI ,28-10-1994,1
+133,34,53,47,7,0,72.34,2,bowled,2,West Indies,Kanpur,ODI ,30-10-1994,1
+134,62,80,54,13,0,114.81,2,bowled,1,New Zealand,Delhi,ODI ,03-11-1994,1
+135,66,101,68,8,0,97.05,2,caught,1,West Indies,Eden Gardens,ODI ,05-11-1994,1
+136,54,130,64,5,0,84.37,2,caught,1,West Indies,Visakhapatnam,ODI ,07-11-1994,1
+137,88,147,112,10,0,78.57,2,bowled,2,West Indies,Cuttack,ODI ,09-11-1994,1
+138,105,180,134,10,0,78.35,2,caught,1,West Indies,Jaipur,ODI ,11-11-1994,1
+139,34,70,43,7,0,79.06,4,lbw,1,West Indies,Wankhede,Test ,18-11-1994,1
+140,85,178,130,10,1,65.38,5,caught,3,West Indies,Wankhede,Test ,18-11-1994,1
+141,179,414,322,24,1,55.59,4,caught,1,West Indies,Nagpur,Test ,01-12-1994,1
+142,54,180,138,3,0,39.13,4,caught,3,West Indies,Nagpur,Test ,01-12-1994,1
+143,40,72,55,9,0,72.72,4,caught,2,West Indies,Mohali,Test ,10-12-1994,1
+144,10,38,24,2,0,41.66,4,caught,4,West Indies,Mohali,Test ,10-12-1994,1
+145,13,30,15,3,0,86.66,2,caught,1,New Zealand,Napier,ODI ,16-02-1995,1
+146,37,75,51,3,1,72.54,2,caught,2,South Africa,Hamilton,ODI ,18-02-1995,1
+147,47,65,40,7,0,117.5,2,caught,2,Australia,Dunedin,ODI ,22-02-1995,1
+148,48,37,30,9,1,160,2,bowled,2,Bangladesh,Sharjah,ODI ,05-04-1995,1
+149,4,13,9,1,0,44.44,2,caught,2,Pakistan,Sharjah,ODI ,07-04-1995,1
+150,112,137,107,15,1,104.67,2,not out,2,Sri Lanka,Sharjah,ODI ,09-04-1995,1
+151,41,51,41,5,0,100,2,caught,2,Sri Lanka,Sharjah,ODI ,14-04-1995,1
+152,4,7,4,1,0,100,4,caught,2,New Zealand,Bengaluru,Test ,18-10-1995,1
+153,0,3,0,0,0,-,4,not out,4,New Zealand,Bengaluru,Test ,18-10-1995,1
+154,52,98,88,5,0,59.09,4,not out,1,New Zealand,Chennai,Test ,25-10-1995,1
+155,2,8,8,0,0,25,4,bowled,1,New Zealand,Cuttack,Test ,08-11-1995,1
+156,30,30,20,5,0,150,2,caught,1,New Zealand,Jamshedpur,ODI ,15-11-1995,1
+157,39,79,51,4,0,76.47,2,caught,2,New Zealand,Amritsar,ODI ,18-11-1995,1
+158,7,27,11,1,0,63.63,2,caught,2,New Zealand,Pune,ODI ,24-11-1995,1
+159,65,96,59,9,1,110.16,2,run out,2,New Zealand,Nagpur,ODI ,26-11-1995,1
+160,1,14,4,0,0,25,2,bowled,2,New Zealand,Brabourne,ODI ,29-11-1995,1
+161,127,175,138,15,1,92.02,2,not out,2,Kenya,Cuttack,ODI ,18-02-1996,1
+162,70,137,91,8,0,76.92,2,run out,2,West Indies,Gwalior,ODI ,21-02-1996,1
+163,90,124,84,14,1,107.14,2,stumped,2,Australia,Wankhede,ODI ,27-02-1996,1
+164,137,198,137,8,5,100,2,run out,1,Sri Lanka,Delhi,ODI ,02-03-1996,1
+165,3,10,12,0,0,25,1,bowled,1,Zimbabwe,Kanpur,ODI ,06-03-1996,1
+166,31,103,59,3,0,52.54,2,bowled,1,Pakistan,Bengaluru,ODI ,09-03-1996,1
+167,65,96,88,9,0,73.86,1,stumped,2,Sri Lanka,Eden Gardens,ODI ,13-03-1996,1
+168,28,-,31,3,1,90.32,1,caught,1,Sri Lanka,Singapore,ODI ,03-04-1996,1
+169,100,-,111,9,1,90.09,2,stumped,1,Pakistan,Singapore,ODI ,05-04-1996,1
+170,1,-,5,0,0,20,2,caught,2,Pakistan,Sharjah,ODI ,12-04-1996,1
+171,2,23,15,0,0,13.33,2,caught,2,South Africa,Sharjah,ODI ,14-04-1996,1
+172,118,-,140,8,2,84.28,2,caught,1,Pakistan,Sharjah,ODI ,15-04-1996,1
+173,17,32,26,2,0,65.38,2,caught,1,South Africa,Sharjah,ODI ,17-04-1996,1
+174,57,104,71,6,0,80.28,2,run out,2,South Africa,Sharjah,ODI ,19-04-1996,1
+175,30,30,19,5,1,157.89,2,lbw,2,England,The Oval,ODI ,23-05-1996,1
+176,6,26,19,0,0,31.57,2,run out,1,England,Leeds,ODI ,25-05-1996,1
+177,1,18,11,0,0,9.09,2,caught,1,England,Manchester,ODI ,26-05-1996,1
+178,24,71,41,4,0,58.53,4,bowled,1,England,Birmingham,Test ,06-06-1996,1
+179,122,263,177,19,1,68.92,4,caught,3,England,Birmingham,Test ,06-06-1996,1
+180,31,81,59,5,0,52.54,4,bowled,2,England,Lord's,Test ,20-06-1996,1
+181,177,462,360,26,0,49.16,4,caught,1,England,Nottingham,Test ,04-07-1996,1
+182,74,111,97,11,1,76.28,4,caught,3,England,Nottingham,Test ,04-07-1996,1
+183,110,-,138,5,1,79.71,2,run out,1,Sri Lanka,Colombo (RPS),ODI ,28-08-1996,1
+184,40,60,46,8,0,86.95,2,caught,2,Zimbabwe,Colombo (SSC),ODI ,01-09-1996,1
+185,7,24,11,1,0,63.63,2,caught,1,Australia,Colombo (SSC),ODI ,06-09-1996,1
+186,89,-,89,9,3,100,2,not out,2,Pakistan,Toronto,ODI ,16-09-1996,1
+187,20,-,23,3,0,86.95,2,caught,1,Pakistan,Toronto,ODI ,17-09-1996,1
+188,2,-,13,0,0,15.38,2,caught,1,Pakistan,Toronto,ODI ,18-09-1996,1
+189,3,-,9,0,0,33.33,2,caught,2,Pakistan,Toronto,ODI ,21-09-1996,1
+190,23,-,44,0,1,52.27,2,run out,2,Pakistan,Toronto,ODI ,23-09-1996,1
+191,10,12,11,2,0,90.9,4,caught,2,Australia,Delhi,Test ,10-10-1996,1
+192,0,6,7,0,0,0,4,bowled,4,Australia,Delhi,Test ,10-10-1996,1
+193,11,20,8,2,0,137.5,2,caught,2,South Africa,Hyderabad (Deccan),ODI ,17-10-1996,1
+194,88,189,111,9,0,79.27,2,lbw,2,Australia,Bengaluru,ODI ,21-10-1996,1
+195,64,133,93,3,0,68.81,2,caught,2,South Africa,Jaipur,ODI ,23-10-1996,1
+196,28,55,38,5,0,73.68,1,lbw,1,South Africa,Rajkot,ODI ,29-10-1996,1
+197,62,-,61,8,0,101.63,1,caught,1,Australia,Mohali,ODI ,03-11-1996,1
+198,67,128,88,6,0,76.13,2,caught,1,South Africa,Wankhede,ODI ,06-11-1996,1
+199,42,80,64,7,0,65.62,4,caught,1,South Africa,Ahmedabad,Test ,20-11-1996,1
+200,7,43,33,1,0,21.21,4,caught,3,South Africa,Ahmedabad,Test ,20-11-1996,1
+201,18,91,62,3,0,29.03,4,bowled,2,South Africa,Eden Gardens,Test ,27-11-1996,1
+202,2,28,25,0,0,8,4,caught,4,South Africa,Eden Gardens,Test ,27-11-1996,1
+203,61,211,173,4,1,35.26,4,caught,1,South Africa,Kanpur,Test ,08-12-1996,1
+204,36,129,98,4,0,36.73,5,caught,3,South Africa,Kanpur,Test ,08-12-1996,1
+205,114,157,126,14,0,90.47,1,stumped,1,South Africa,Wankhede,ODI ,14-12-1996,1
+206,15,58,45,2,0,33.33,4,bowled,2,South Africa,Durban,Test ,26-12-1996,1
+207,4,32,25,1,0,16,4,caught,4,South Africa,Durban,Test ,26-12-1996,1
+208,169,329,254,26,0,66.53,5,caught,2,South Africa,Cape Town,Test ,02-01-1997,1
+209,9,38,28,1,0,32.14,5,caught,4,South Africa,Cape Town,Test ,02-01-1997,1
+210,35,72,55,7,0,63.63,4,caught,1,South Africa,Johannesburg,Test ,16-01-1997,1
+211,9,13,11,2,0,81.81,4,caught,3,South Africa,Johannesburg,Test ,16-01-1997,1
+212,0,12,4,0,0,0,2,bowled,2,South Africa,Bloemfontein,ODI ,23-01-1997,1
+213,6,8,8,1,0,75,1,caught,2,Zimbabwe,Paarl,ODI ,27-01-1997,1
+214,1,14,14,0,0,7.14,4,bowled,1,South Africa,Gqeberha,ODI ,02-02-1997,1
+215,14,34,24,2,0,58.33,3,caught,1,South Africa,East London,ODI ,04-02-1997,1
+216,41,81,56,1,1,73.21,4,caught,1,Zimbabwe,Centurion,ODI ,07-02-1997,1
+217,104,121,97,8,1,107.21,2,caught,2,Zimbabwe,Benoni,ODI ,09-02-1997,1
+218,32,55,27,6,0,118.51,2,caught,1,South Africa,Durban,ODI ,12-02-1997,1
+219,45,48,33,7,1,136.36,2,caught,2,South Africa,Durban,ODI ,13-02-1997,1
+220,13,18,15,0,1,86.66,2,caught,1,Zimbabwe,Bulawayo,ODI ,15-02-1997,1
+221,7,40,30,1,0,23.33,4,bowled,2,West Indies,Kingston,Test ,06-03-1997,1
+222,15,43,36,1,0,41.66,4,not out,4,West Indies,Kingston,Test ,06-03-1997,1
+223,88,306,233,9,0,37.76,4,run out,2,West Indies,Port of Spain,Test ,14-03-1997,1
+224,92,222,147,14,1,62.58,4,caught,2,West Indies,Bridgetown,Test ,27-03-1997,1
+225,4,25,14,0,0,28.57,4,caught,4,West Indies,Bridgetown,Test ,27-03-1997,1
+227,83,287,231,9,0,35.93,4,caught,1,West Indies,Georgetown,Test ,17-04-1997,1
+228,44,57,43,10,0,102.32,1,caught,1,West Indies,Port of Spain,ODI ,26-04-1997,1
+229,65,111,70,7,0,92.85,1,not out,2,West Indies,Port of Spain,ODI ,27-04-1997,1
+230,9,22,15,1,0,60,1,bowled,2,West Indies,Kingstown,ODI ,30-04-1997,1
+231,1,17,11,0,0,9.09,1,caught,1,West Indies,Bridgetown,ODI ,03-05-1997,1
+232,117,188,137,13,2,85.4,2,bowled,2,New Zealand,Bengaluru,ODI ,14-05-1997,1
+233,2,19,4,0,0,50,2,caught,1,Sri Lanka,Wankhede,ODI ,17-05-1997,1
+234,4,10,7,1,0,57.14,1,caught,2,Pakistan,Chennai,ODI ,21-05-1997,1
+235,21,49,28,3,0,75,1,bowled,1,Sri Lanka,Colombo (RPS),ODI ,18-07-1997,1
+237,28,36,21,5,0,133.33,2,bowled,2,Bangladesh,Colombo (SSC),ODI ,24-07-1997,1
+238,53,109,67,2,0,79.1,4,caught,1,Sri Lanka,Colombo (RPS),ODI ,26-07-1997,1
+239,143,292,247,20,0,57.89,4,caught,1,Sri Lanka,Colombo (RPS),Test ,02-08-1997,1
+240,139,397,266,16,0,52.25,4,caught,2,Sri Lanka,Colombo (SSC),Test ,09-08-1997,1
+241,8,43,44,1,0,18.18,4,caught,4,Sri Lanka,Colombo (SSC),Test ,09-08-1997,1
+242,27,55,28,3,0,96.42,1,caught,2,Sri Lanka,Colombo (RPS),ODI ,17-08-1997,1
+243,6,4,6,1,0,100,1,lbw,1,Sri Lanka,Colombo (RPS),ODI ,20-08-1997,1
+244,27,47,31,4,0,87.09,2,caught,1,Sri Lanka,Colombo (SSC),ODI ,23-08-1997,1
+245,39,41,32,3,2,121.87,1,caught,2,Sri Lanka,Colombo (SSC),ODI ,24-08-1997,1
+246,17,82,54,2,0,31.48,1,caught,1,Pakistan,Toronto,ODI ,13-09-1997,1
+247,25,66,45,3,0,55.55,4,not out,2,Pakistan,Toronto,ODI ,14-09-1997,1
+249,0,26,10,0,0,0,4,caught,1,Pakistan,Toronto,ODI ,18-09-1997,1
+250,6,10,7,1,0,85.71,1,caught,2,Pakistan,Toronto,ODI ,20-09-1997,1
+251,51,106,64,4,1,79.68,1,lbw,1,Pakistan,Toronto,ODI ,21-09-1997,1
+252,2,17,11,0,0,18.18,1,bowled,1,Pakistan,Hyderabad (Sind),ODI ,28-09-1997,1
+253,21,24,18,2,1,116.66,1,caught,2,Pakistan,Karachi,ODI ,30-09-1997,1
+254,7,19,11,1,0,63.63,1,caught,1,Pakistan,Lahore,ODI ,02-10-1997,1
+255,23,129,93,2,0,24.73,4,caught,2,Sri Lanka,Mohali,Test ,19-11-1997,1
+256,15,38,20,1,1,75,4,bowled,1,Sri Lanka,Nagpur,Test ,26-11-1997,1
+257,148,320,244,20,3,60.65,5,bowled,1,Sri Lanka,Wankhede,Test ,03-12-1997,1
+258,13,28,16,1,0,81.25,4,caught,3,Sri Lanka,Wankhede,Test ,03-12-1997,1
+259,91,146,87,4,2,104.59,4,stumped,2,England,Sharjah,ODI ,11-12-1997,1
+260,3,4,4,0,0,75,5,caught,1,Pakistan,Sharjah,ODI ,14-12-1997,1
+261,1,3,2,0,0,50,4,run out,2,West Indies,Sharjah,ODI ,16-12-1997,1
+262,82,110,86,6,0,95.34,4,not out,2,Sri Lanka,Guwahati,ODI ,22-12-1997,1
+264,6,23,13,0,0,46.15,3,caught,1,Sri Lanka,Margao,ODI ,28-12-1997,1
+265,54,104,76,4,0,71.05,4,caught,2,Bangladesh,Dhaka,ODI ,10-01-1998,1
+266,67,-,44,11,0,152.27,2,stumped,1,Pakistan,Dhaka,ODI ,11-01-1998,1
+267,95,104,78,6,5,121.79,2,bowled,2,Pakistan,Dhaka,ODI ,14-01-1998,1
+268,1,14,6,0,0,16.66,2,bowled,1,Pakistan,Dhaka,ODI ,16-01-1998,1
+269,41,-,26,7,1,157.69,2,caught,2,Pakistan,Dhaka,ODI ,18-01-1998,1
+270,4,7,5,1,0,80,4,caught,1,Australia,Chennai,Test ,06-03-1998,1
+271,155,286,191,14,4,81.15,4,not out,3,Australia,Chennai,Test ,06-03-1998,1
+272,79,109,86,12,2,91.86,4,caught,2,Australia,Eden Gardens,Test ,18-03-1998,1
+273,177,298,207,29,3,85.5,4,bowled,1,Australia,Bengaluru,Test ,25-03-1998,1
+274,31,75,64,4,0,48.43,4,caught,3,Australia,Bengaluru,Test ,25-03-1998,1
+275,8,21,11,1,0,72.72,2,caught,1,Australia,Kochi,ODI ,01-04-1998,1
+276,5,44,17,0,0,29.41,2,run out,1,Zimbabwe,Vadodara,ODI ,05-04-1998,1
+277,100,132,89,5,7,112.35,2,caught,2,Australia,Kanpur,ODI ,07-04-1998,1
+278,1,18,2,0,0,50,2,caught,1,Zimbabwe,Cuttack,ODI ,09-04-1998,1
+279,15,45,24,2,0,62.5,2,caught,1,Australia,Delhi,ODI ,14-04-1998,1
+280,40,62,41,5,1,97.56,1,caught,1,New Zealand,Sharjah,ODI ,17-04-1998,1
+281,80,136,72,9,0,111.11,2,caught,2,Australia,Sharjah,ODI ,19-04-1998,1
+282,38,93,58,2,0,65.51,1,run out,1,New Zealand,Sharjah,ODI ,20-04-1998,1
+283,143,187,131,9,5,109.16,2,caught,2,Australia,Sharjah,ODI ,22-04-1998,1
+284,134,195,131,12,3,102.29,2,lbw,2,Australia,Sharjah,ODI ,24-04-1998,1
+285,33,48,29,6,0,113.79,2,caught,2,Bangladesh,Wankhede,ODI ,25-05-1998,1
+286,18,33,25,2,0,72,2,caught,2,Kenya,Gwalior,ODI ,28-05-1998,1
+287,100,156,103,13,0,97.08,2,not out,2,Kenya,Eden Gardens,ODI ,31-05-1998,1
+288,65,79,50,9,0,130,2,caught,2,Sri Lanka,Colombo (RPS),ODI ,19-06-1998,1
+289,53,43,36,3,3,147.22,2,caught,2,New Zealand,Colombo (RPS),ODI ,23-06-1998,1
+290,17,28,16,4,0,106.25,2,caught,2,Sri Lanka,Colombo (SSC),ODI ,01-07-1998,1
+292,128,182,131,8,2,97.7,2,stumped,1,Sri Lanka,Colombo (RPS),ODI ,07-07-1998,1
+293,77,157,109,9,0,70.64,2,caught,1,Pakistan,Toronto,ODI ,20-09-1998,1
+294,127,155,130,13,1,97.69,2,not out,2,Zimbabwe,Bulawayo,ODI ,26-09-1998,1
+295,29,33,21,4,1,138.09,1,caught,2,Zimbabwe,Bulawayo,ODI ,27-09-1998,1
+296,2,7,6,0,0,33.33,2,caught,2,Zimbabwe,Harare,ODI ,30-09-1998,1
+297,34,103,68,3,0,50,5,caught,2,Zimbabwe,Harare,Test ,07-10-1998,1
+298,7,27,14,0,0,50,4,caught,4,Zimbabwe,Harare,Test ,07-10-1998,1
+299,141,191,128,13,3,110.15,2,run out,1,Australia,Dhaka,ODI ,28-10-1998,1
+300,8,20,14,1,0,57.14,2,caught,1,West Indies,Dhaka,ODI ,31-10-1998,1
+301,3,15,6,0,0,50,2,caught,2,Sri Lanka,Sharjah,ODI ,06-11-1998,1
+302,118,173,112,14,2,105.35,2,not out,2,Zimbabwe,Sharjah,ODI ,08-11-1998,1
+303,18,57,28,2,0,64.28,1,caught,1,Sri Lanka,Sharjah,ODI ,09-11-1998,1
+304,11,33,12,2,0,91.66,2,caught,2,Zimbabwe,Sharjah,ODI ,11-11-1998,1
+305,124,140,92,12,6,134.78,2,not out,2,Zimbabwe,Sharjah,ODI ,13-11-1998,1
+306,47,95,72,7,0,65.27,5,caught,1,New Zealand,Wellington,Test ,26-12-1998,1
+307,113,200,151,13,2,74.83,5,caught,3,New Zealand,Wellington,Test ,26-12-1998,1
+308,67,118,93,9,1,72.04,4,lbw,2,New Zealand,Hamilton,Test ,02-01-1999,1
+310,0,10,5,0,0,0,2,caught,1,New Zealand,Taupo,ODI ,09-01-1999,1
+311,23,37,19,4,0,121.05,2,caught,2,New Zealand,Napier,ODI ,12-01-1999,1
+312,45,68,42,2,2,107.14,2,stumped,1,New Zealand,Wellington,ODI ,14-01-1999,1
+313,5,27,12,1,0,41.66,1,lbw,2,New Zealand,Auckland,ODI ,16-01-1999,1
+314,0,5,3,0,0,0,4,caught,2,Pakistan,Chennai,Test ,28-01-1999,1
+315,136,405,273,18,0,49.81,4,caught,4,Pakistan,Chennai,Test ,28-01-1999,1
+316,6,13,11,1,0,54.54,4,lbw,1,Pakistan,Delhi,Test ,04-02-1999,1
+317,29,99,65,4,0,44.61,4,caught,3,Pakistan,Delhi,Test ,04-02-1999,1
+318,0,2,1,0,0,0,5,bowled,2,Pakistan,Eden Gardens,Test ,16-02-1999,1
+319,9,18,13,1,0,69.23,4,run out,4,Pakistan,Eden Gardens,Test ,16-02-1999,1
+320,53,94,54,10,0,98.14,4,caught,1,Sri Lanka,Colombo (SSC),Test ,24-02-1999,1
+321,124,308,235,10,1,52.76,4,not out,3,Sri Lanka,Colombo (SSC),Test ,24-02-1999,1
+322,28,71,46,5,0,60.86,2,caught,1,South Africa,Hove,ODI ,15-05-1999,1
+323,140,114,101,16,3,138.61,4,not out,1,Kenya,Bristol,ODI ,23-05-1999,1
+324,2,10,3,0,0,66.66,4,bowled,1,Sri Lanka,Taunton,ODI ,26-05-1999,1
+325,22,49,40,2,0,55,4,caught,1,England,Birmingham,ODI ,29-05-1999,1
+326,0,5,4,0,0,0,2,caught,2,Australia,The Oval,ODI ,04-06-1999,1
+327,45,92,65,5,0,69.23,1,caught,1,Pakistan,Manchester,ODI ,08-06-1999,1
+328,16,26,22,2,0,72.72,1,bowled,1,New Zealand,Nottingham,ODI ,12-06-1999,1
+329,14,52,33,0,0,42.42,2,caught,1,Australia,Galle,ODI ,23-08-1999,1
+330,37,105,58,1,0,63.79,2,run out,1,Sri Lanka,Colombo (RPS),ODI ,25-08-1999,1
+331,120,191,141,11,2,85.1,1,caught,1,Sri Lanka,Colombo (SSC),ODI ,29-08-1999,1
+332,85,114,72,7,3,118.05,2,caught,1,Zimbabwe,Singapore,ODI ,04-09-1999,1
+333,40,97,65,6,0,61.53,1,caught,1,West Indies,Singapore,ODI ,07-09-1999,1
+334,0,-,6,0,0,0,1,caught,1,West Indies,Singapore,ODI ,08-09-1999,1
+335,18,61,34,3,0,52.94,4,bowled,1,New Zealand,Mohali,Test ,10-10-1999,1
+336,126,397,248,14,0,50.8,4,not out,3,New Zealand,Mohali,Test ,10-10-1999,1
+337,15,76,54,3,0,27.77,4,caught,2,New Zealand,Kanpur,Test ,22-10-1999,1
+338,44,58,39,8,0,112.82,4,not out,4,New Zealand,Kanpur,Test ,22-10-1999,1
+339,217,494,344,29,0,63.08,4,caught,1,New Zealand,Ahmedabad,Test ,29-10-1999,1
+340,15,16,10,3,0,150,2,bowled,3,New Zealand,Ahmedabad,Test ,29-10-1999,1
+341,32,61,31,2,1,103.22,2,caught,2,New Zealand,Rajkot,ODI ,05-11-1999,1
+342,186,221,150,20,3,124,2,not out,1,New Zealand,Hyderabad (Deccan),ODI ,08-11-1999,1
+343,1,41,23,0,0,4.34,2,caught,1,New Zealand,Gwalior,ODI ,11-11-1999,1
+344,2,21,10,0,0,20,2,caught,2,New Zealand,Guwahati,ODI ,14-11-1999,1
+345,0,2,3,0,0,0,4,caught,2,New Zealand,Delhi,ODI ,17-11-1999,1
+346,61,181,133,8,0,45.86,5,caught,2,Australia,Adelaide,Test ,10-12-1999,1
+347,0,6,5,0,0,0,5,lbw,4,Australia,Adelaide,Test ,10-12-1999,1
+348,116,283,191,9,1,60.73,4,caught,2,Australia,Melbourne,Test ,26-12-1999,1
+349,52,162,122,4,0,42.62,4,lbw,4,Australia,Melbourne,Test ,26-12-1999,1
+350,45,82,53,8,0,84.9,4,lbw,1,Australia,Sydney,Test ,02-01-2000,1
+351,4,6,4,1,0,100,4,caught,3,Australia,Sydney,Test ,02-01-2000,1
+352,13,28,26,2,0,50,4,bowled,1,Pakistan,Brisbane,ODI ,10-01-2000,1
+353,12,25,11,2,0,109.09,4,run out,2,Australia,Melbourne,ODI ,12-01-2000,1
+354,1,13,11,0,0,9.09,2,caught,1,Australia,Sydney,ODI ,14-01-2000,1
+355,93,157,103,10,0,90.29,1,bowled,2,Pakistan,Hobart,ODI ,21-01-2000,1
+356,41,69,46,5,0,89.13,1,caught,1,Pakistan,Adelaide,ODI ,25-01-2000,1
+357,18,45,28,2,0,64.28,1,caught,2,Australia,Adelaide,ODI ,26-01-2000,1
+358,17,19,14,4,0,121.42,1,caught,2,Pakistan,Perth,ODI ,28-01-2000,1
+359,3,23,21,0,0,14.28,2,bowled,1,Australia,Perth,ODI ,30-01-2000,1
+360,97,208,163,12,2,59.5,4,caught,1,South Africa,Wankhede,Test ,24-02-2000,1
+361,8,20,11,2,0,72.72,4,lbw,3,South Africa,Wankhede,Test ,24-02-2000,1
+362,21,120,76,3,0,27.63,4,caught,1,South Africa,Bengaluru,Test ,02-03-2000,1
+363,20,76,53,2,0,37.73,4,caught,3,South Africa,Bengaluru,Test ,02-03-2000,1
+364,26,66,25,4,0,104,2,caught,2,South Africa,Kochi,ODI ,09-03-2000,1
+365,21,39,31,3,0,67.74,2,caught,2,South Africa,Jamshedpur,ODI ,12-03-2000,1
+366,12,48,28,1,0,42.85,2,lbw,1,South Africa,Faridabad,ODI ,15-03-2000,1
+367,122,195,138,12,0,88.4,2,caught,2,South Africa,Vadodara,ODI ,17-03-2000,1
+368,93,119,89,7,4,104.49,2,caught,2,South Africa,Nagpur,ODI ,19-03-2000,1
+369,5,10,8,0,0,62.5,2,bowled,1,South Africa,Sharjah,ODI ,22-03-2000,1
+370,11,54,28,1,0,39.28,2,lbw,2,Pakistan,Sharjah,ODI ,23-03-2000,1
+371,10,23,18,1,0,55.55,2,bowled,2,Pakistan,Sharjah,ODI ,26-03-2000,1
+372,39,117,68,3,0,57.35,1,run out,1,South Africa,Sharjah,ODI ,27-03-2000,1
+373,36,55,25,4,2,144,2,caught,2,Bangladesh,Dhaka,ODI ,30-05-2000,1
+374,93,174,95,10,0,97.89,2,caught,2,Sri Lanka,Dhaka,ODI ,01-06-2000,1
+375,25,74,30,4,0,83.33,2,lbw,2,Pakistan,Dhaka,ODI ,03-06-2000,1
+376,25,55,35,4,0,71.42,2,lbw,2,Kenya,Nairobi (Gym),ODI ,03-10-2000,1
+377,38,58,37,3,3,102.7,2,caught,1,Australia,Nairobi (Gym),ODI ,07-10-2000,1
+378,39,61,50,4,0,78,2,caught,1,South Africa,Nairobi (Gym),ODI ,13-10-2000,1
+379,69,103,83,10,1,83.13,2,run out,1,New Zealand,Nairobi (Gym),ODI ,15-10-2000,1
+380,101,-,140,3,1,72.14,2,run out,1,Sri Lanka,Sharjah,ODI ,20-10-2000,1
+381,8,-,15,1,0,53.33,2,caught,1,Zimbabwe,Sharjah,ODI ,22-10-2000,1
+382,4,-,10,0,0,40,1,caught,2,Zimbabwe,Sharjah,ODI ,26-10-2000,1
+383,61,-,54,7,0,112.96,2,caught,2,Sri Lanka,Sharjah,ODI ,27-10-2000,1
+384,5,-,11,0,0,45.45,2,caught,2,Sri Lanka,Sharjah,ODI ,29-10-2000,1
+385,18,63,41,1,0,43.9,5,caught,2,Bangladesh,Dhaka,Test ,10-11-2000,1
+387,122,283,233,19,0,52.36,4,caught,2,Zimbabwe,Delhi,Test ,18-11-2000,1
+388,39,45,39,8,0,100,4,caught,4,Zimbabwe,Delhi,Test ,18-11-2000,1
+389,201,392,281,27,0,71.53,4,not out,1,Zimbabwe,Nagpur,Test ,25-11-2000,1
+390,44,90,49,7,0,89.79,2,caught,2,Zimbabwe,Cuttack,ODI ,02-12-2000,1
+391,8,27,20,0,0,40,1,caught,1,Zimbabwe,Ahmedabad,ODI ,05-12-2000,1
+392,146,200,153,15,2,95.42,2,caught,1,Zimbabwe,Jodhpur,ODI ,08-12-2000,1
+393,62,113,86,9,0,72.09,2,lbw,2,Zimbabwe,Kanpur,ODI ,11-12-2000,1
+394,27,38,38,5,0,71.05,2,bowled,1,Zimbabwe,Rajkot,ODI ,14-12-2000,1
+395,76,138,114,13,0,66.66,4,caught,1,Australia,Wankhede,Test ,27-02-2001,1
+396,65,153,107,11,0,60.74,5,caught,3,Australia,Wankhede,Test ,27-02-2001,1
+397,10,25,18,2,0,55.55,4,lbw,2,Australia,Eden Gardens,Test ,11-03-2001,1
+398,10,26,23,2,0,43.47,4,caught,3,Australia,Eden Gardens,Test ,11-03-2001,1
+399,126,346,230,15,2,54.78,4,caught,2,Australia,Chennai,Test ,18-03-2001,1
+400,17,27,17,3,0,100,4,caught,4,Australia,Chennai,Test ,18-03-2001,1
+401,35,47,26,6,1,134.61,2,run out,1,Australia,Bengaluru,ODI ,25-03-2001,1
+402,32,35,29,6,1,110.34,2,caught,1,Australia,Pune,ODI ,28-03-2001,1
+403,139,197,125,19,0,111.2,2,caught,1,Australia,Indore,ODI ,31-03-2001,1
+404,62,68,38,11,0,163.15,2,caught,2,Australia,Visakhapatnam,ODI ,03-04-2001,1
+405,12,17,15,2,0,80,2,caught,1,Australia,Margao,ODI ,06-04-2001,1
+406,74,179,128,12,0,57.81,4,caught,2,Zimbabwe,Bulawayo,Test ,07-06-2001,1
+407,36,41,49,4,0,73.46,4,not out,4,Zimbabwe,Bulawayo,Test ,07-06-2001,1
+408,20,78,46,2,1,43.47,4,bowled,1,Zimbabwe,Harare,Test ,15-06-2001,1
+409,69,185,135,9,0,51.11,4,caught,3,Zimbabwe,Harare,Test ,15-06-2001,1
+410,70,129,70,13,0,100,2,not out,2,Zimbabwe,Harare,ODI ,24-06-2001,1
+411,9,42,27,0,0,33.33,2,caught,2,Zimbabwe,Bulawayo,ODI ,27-06-2001,1
+412,81,191,110,8,0,73.63,2,not out,2,West Indies,Bulawayo,ODI ,30-06-2001,1
+413,122,210,131,12,1,93.12,2,not out,2,West Indies,Harare,ODI ,04-07-2001,1
+414,0,10,4,0,0,0,2,caught,2,West Indies,Harare,ODI ,07-07-2001,1
+415,101,209,129,9,0,78.29,2,caught,1,South Africa,Johannesburg,ODI ,05-10-2001,1
+416,38,82,57,5,0,66.66,2,caught,1,South Africa,Centurion,ODI ,10-10-2001,1
+418,3,24,20,0,0,15,2,bowled,2,Kenya,Gqeberha,ODI ,17-10-2001,1
+419,37,68,35,5,0,105.71,2,bowled,2,South Africa,East London,ODI ,19-10-2001,1
+420,146,186,132,17,0,110.6,2,caught,1,Kenya,Paarl,ODI ,24-10-2001,1
+421,17,49,42,3,0,40.47,2,bowled,1,South Africa,Durban,ODI ,26-10-2001,1
+422,155,233,184,23,1,84.23,4,caught,1,South Africa,Bloemfontein,Test ,03-11-2001,1
+423,15,60,35,2,0,42.85,4,caught,3,South Africa,Bloemfontein,Test ,03-11-2001,1
+424,1,10,4,0,0,25,4,caught,2,South Africa,Gqeberha,Test ,16-11-2001,1
+425,22,54,45,4,0,48.88,4,not out,4,South Africa,Gqeberha,Test ,16-11-2001,1
+426,88,229,144,13,0,61.11,5,caught,2,England,Mohali,Test ,03-12-2001,1
+428,103,254,197,12,1,52.28,4,caught,2,England,Ahmedabad,Test ,11-12-2001,1
+429,26,87,81,4,0,32.09,4,caught,4,England,Ahmedabad,Test ,11-12-2001,1
+430,90,263,198,13,0,45.45,4,stumped,2,England,Bengaluru,Test ,19-12-2001,1
+431,36,71,43,6,0,83.72,2,bowled,1,England,Eden Gardens,ODI ,19-01-2002,1
+432,45,101,60,6,0,75,2,run out,2,England,Cuttack,ODI ,22-01-2002,1
+433,68,110,79,10,0,86.07,1,lbw,2,England,Chennai,ODI ,25-01-2002,1
+434,87,120,67,13,1,129.85,1,not out,2,England,Kanpur,ODI ,28-01-2002,1
+435,18,20,16,3,0,112.5,2,caught,2,England,Delhi,ODI ,31-01-2002,1
+436,12,22,18,1,1,66.66,2,caught,2,England,Wankhede,ODI ,03-02-2002,1
+437,176,440,316,23,0,55.69,4,caught,2,Zimbabwe,Nagpur,Test ,21-02-2002,1
+438,36,124,119,5,0,30.25,4,lbw,2,Zimbabwe,Delhi,Test ,28-02-2002,1
+439,42,78,52,7,1,80.76,5,lbw,4,Zimbabwe,Delhi,Test ,28-02-2002,1
+440,79,191,136,13,0,58.08,4,lbw,2,West Indies,Georgetown,Test ,11-04-2002,1
+441,117,356,260,14,0,45,4,lbw,1,West Indies,Port of Spain,Test ,19-04-2002,1
+442,0,16,4,0,0,0,4,lbw,3,West Indies,Port of Spain,Test ,19-04-2002,1
+443,0,4,2,0,0,0,4,caught,1,West Indies,Bridgetown,Test ,02-05-2002,1
+444,8,32,17,1,0,47.05,4,lbw,3,West Indies,Bridgetown,Test ,02-05-2002,1
+445,0,2,1,0,0,0,4,caught,1,West Indies,St John's,Test ,10-05-2002,1
+446,41,94,63,7,0,65.07,4,bowled,2,West Indies,Kingston,Test ,18-05-2002,1
+447,86,162,139,13,0,61.87,4,bowled,4,West Indies,Kingston,Test ,18-05-2002,1
+448,34,64,45,2,0,75.55,4,not out,2,West Indies,Bridgetown,ODI ,29-05-2002,1
+449,65,110,70,3,1,92.85,4,bowled,1,West Indies,Port of Spain,ODI ,02-06-2002,1
+450,1,12,9,0,0,11.11,4,lbw,2,England,Lord's,ODI ,29-06-2002,1
+451,49,123,70,3,1,70,4,caught,2,Sri Lanka,The Oval,ODI ,30-06-2002,1
+452,105,167,108,8,1,97.22,4,not out,1,England,Chester-le-Street,ODI ,04-07-2002,1
+453,19,35,25,3,0,76,4,caught,2,Sri Lanka,Birmingham,ODI ,06-07-2002,1
+454,36,60,29,5,0,124.13,4,caught,2,England,The Oval,ODI ,09-07-2002,1
+455,113,141,102,12,1,110.78,4,caught,1,Sri Lanka,Bristol,ODI ,11-07-2002,1
+456,14,31,19,1,0,73.68,4,bowled,2,England,Lord's,ODI ,13-07-2002,1
+457,16,94,61,2,0,26.22,5,caught,2,England,Lord's,Test ,25-07-2002,1
+458,12,51,35,2,0,34.28,4,bowled,4,England,Lord's,Test ,25-07-2002,1
+459,34,90,68,6,0,50,4,bowled,1,England,Nottingham,Test ,08-08-2002,1
+460,92,160,113,17,0,81.41,4,bowled,3,England,Nottingham,Test ,08-08-2002,1
+461,193,434,330,19,3,58.48,4,lbw,1,England,Leeds,Test ,22-08-2002,1
+462,54,114,89,10,0,60.67,4,lbw,2,England,The Oval,Test ,05-09-2002,1
+463,7,39,16,0,0,43.75,4,caught,1,Zimbabwe,Colombo (RPS),ODI ,14-09-2002,1
+464,9,34,20,0,0,45,4,not out,2,England,Colombo (RPS),ODI ,22-09-2002,1
+465,16,39,29,1,0,55.17,4,run out,1,South Africa,Colombo (RPS),ODI ,25-09-2002,1
+467,7,33,22,1,0,31.81,3,not out,2,Sri Lanka,Colombo (RPS),ODI ,30-09-2002,1
+468,35,96,88,5,0,39.77,4,caught,1,West Indies,Wankhede,Test ,09-10-2002,1
+469,43,156,113,5,0,38.05,4,bowled,2,West Indies,Chennai,Test ,17-10-2002,1
+470,16,15,20,0,0,80,4,not out,4,West Indies,Chennai,Test ,17-10-2002,1
+471,36,85,65,7,0,55.38,4,caught,1,West Indies,Eden Gardens,Test ,30-10-2002,1
+472,176,419,298,26,0,59.06,4,caught,3,West Indies,Eden Gardens,Test ,30-10-2002,1
+473,8,47,26,2,0,30.76,4,lbw,1,New Zealand,Wellington,Test ,12-12-2002,1
+474,51,120,74,7,0,68.91,4,bowled,3,New Zealand,Wellington,Test ,12-12-2002,1
+475,9,40,31,1,0,29.03,4,caught,1,New Zealand,Hamilton,Test ,19-12-2002,1
+476,32,55,48,5,0,66.66,4,bowled,3,New Zealand,Hamilton,Test ,19-12-2002,1
+477,0,9,10,0,0,0,4,lbw,2,New Zealand,Wellington,ODI ,08-01-2003,1
+478,1,21,13,0,0,7.69,4,caught,2,New Zealand,Auckland,ODI ,11-01-2003,1
+479,1,7,6,0,0,16.66,3,caught,1,New Zealand,Hamilton,ODI ,14-01-2003,1
+480,52,91,72,7,0,72.22,2,caught,1,Netherlands,Paarl,ODI ,12-02-2003,1
+481,36,127,59,3,0,61.01,2,lbw,1,Australia,Centurion,ODI ,15-02-2003,1
+482,81,122,91,10,0,89.01,2,bowled,1,Zimbabwe,Harare,ODI ,19-02-2003,1
+483,152,193,151,18,0,100.66,2,bowled,1,Namibia,Pietermaritzburg,ODI ,23-02-2003,1
+484,50,78,52,8,1,96.15,2,caught,1,England,Durban,ODI ,26-02-2003,1
+485,98,145,75,12,1,130.66,1,caught,2,Pakistan,Centurion,ODI ,01-03-2003,1
+486,5,21,12,1,0,41.66,2,caught,2,Kenya,Cape Town,ODI ,07-03-2003,1
+487,97,160,120,7,1,80.83,1,caught,1,Sri Lanka,Johannesburg,ODI ,10-03-2003,1
+488,15,25,16,3,0,93.75,2,caught,2,New Zealand,Centurion,ODI ,14-03-2003,1
+489,83,166,101,5,1,82.17,2,caught,1,Kenya,Durban,ODI ,20-03-2003,1
+490,4,2,5,1,0,80,1,caught,2,Australia,Johannesburg,ODI ,23-03-2003,1
+491,8,54,38,1,0,21.05,4,caught,1,New Zealand,Ahmedabad,Test ,08-10-2003,1
+492,7,19,15,0,0,46.66,4,caught,3,New Zealand,Ahmedabad,Test ,08-10-2003,1
+493,55,238,175,6,0,31.42,4,caught,2,New Zealand,Mohali,Test ,16-10-2003,1
+494,1,15,10,0,0,10,4,bowled,3,New Zealand,Mohali,Test ,16-10-2003,1
+495,48,119,66,5,0,72.72,2,not out,1,New Zealand,Chennai,ODI ,23-10-2003,1
+496,100,158,119,9,1,84.03,2,caught,1,Australia,Gwalior,ODI ,26-10-2003,1
+497,68,113,76,10,0,89.47,2,bowled,2,Australia,Wankhede,ODI ,01-11-2003,1
+498,14,29,14,3,0,100,2,lbw,1,New Zealand,Cuttack,ODI ,06-11-2003,1
+499,89,133,91,12,1,97.8,2,bowled,2,Australia,Bengaluru,ODI ,12-11-2003,1
+500,102,124,91,12,1,112.08,2,caught,1,New Zealand,Hyderabad (Deccan),ODI ,15-11-2003,1
+501,45,104,66,5,0,68.18,1,bowled,2,Australia,Eden Gardens,ODI ,18-11-2003,1
+502,0,3,3,0,0,0,4,lbw,2,Australia,Brisbane,Test ,04-12-2003,1
+504,1,15,6,0,0,16.66,4,caught,2,Australia,Adelaide,Test ,12-12-2003,1
+505,37,79,59,5,0,62.71,4,lbw,4,Australia,Adelaide,Test ,12-12-2003,1
+506,0,3,1,0,0,0,4,caught,1,Australia,Melbourne,Test ,26-12-2003,1
+507,44,107,79,5,0,55.69,5,caught,3,Australia,Melbourne,Test ,26-12-2003,1
+508,241,613,436,33,0,55.27,4,not out,1,Australia,Sydney,Test ,02-01-2004,1
+509,60,108,89,5,0,67.41,4,not out,3,Australia,Sydney,Test ,02-01-2004,1
+510,63,117,69,8,1,91.3,2,caught,2,Australia,Melbourne,ODI ,09-01-2004,1
+511,44,107,59,6,0,74.57,2,bowled,2,Zimbabwe,Hobart,ODI ,14-01-2004,1
+512,86,129,95,8,0,90.52,2,caught,1,Australia,Brisbane,ODI ,18-01-2004,1
+513,5,17,6,1,0,83.33,2,caught,1,Australia,Perth,ODI ,01-02-2004,1
+514,3,16,8,0,0,37.5,2,caught,2,Zimbabwe,Perth,ODI ,03-02-2004,1
+515,8,28,22,1,0,36.36,2,bowled,1,Australia,Melbourne,ODI ,06-02-2004,1
+516,27,38,40,4,0,67.5,2,caught,2,Australia,Sydney,ODI ,08-02-2004,1
+517,28,49,35,4,1,80,2,caught,1,Pakistan,Karachi,ODI ,13-03-2004,1
+518,141,173,135,17,1,104.44,2,caught,2,Pakistan,Rawalpindi,ODI ,16-03-2004,1
+519,0,7,5,0,0,0,2,caught,1,Pakistan,Peshawar,ODI ,19-03-2004,1
+520,7,22,13,1,0,53.84,2,caught,2,Pakistan,Lahore,ODI ,21-03-2004,1
+521,37,60,48,7,0,77.08,2,caught,1,Pakistan,Lahore,ODI ,24-03-2004,1
+522,194,493,348,21,0,55.74,4,not out,1,Pakistan,Multan,Test ,28-03-2004,1
+523,2,10,6,0,0,33.33,4,lbw,1,Pakistan,Lahore,Test ,05-04-2004,1
+524,8,17,11,1,0,72.72,4,lbw,3,Pakistan,Lahore,Test ,05-04-2004,1
+525,1,6,3,0,0,33.33,4,caught,2,Pakistan,Rawalpindi,Test ,13-04-2004,1
+526,18,39,25,2,0,72,2,caught,1,U.A.E.,Dambulla,ODI ,16-07-2004,1
+527,11,17,13,2,0,84.61,1,caught,2,Sri Lanka,Dambulla,ODI ,18-07-2004,1
+528,82,157,126,10,1,65.07,2,not out,2,Bangladesh,Colombo (SSC),ODI ,21-07-2004,1
+529,78,192,103,6,0,75.72,2,caught,2,Pakistan,Colombo (RPS),ODI ,25-07-2004,1
+530,18,30,21,3,0,85.71,1,lbw,1,Sri Lanka,Colombo (RPS),ODI ,27-07-2004,1
+531,74,170,100,7,1,74,2,bowled,2,Sri Lanka,Colombo (RPS),ODI ,01-08-2004,1
+532,8,49,36,0,0,22.22,4,lbw,2,Australia,Nagpur,Test ,26-10-2004,1
+533,2,18,14,0,0,14.28,4,caught,4,Australia,Nagpur,Test ,26-10-2004,1
+534,5,43,35,0,0,14.28,4,caught,1,Australia,Wankhede,Test ,03-11-2004,1
+535,55,120,83,6,1,66.26,4,caught,3,Australia,Wankhede,Test ,03-11-2004,1
+536,16,30,17,2,0,94.11,2,run out,1,Pakistan,Eden Gardens,ODI ,13-11-2004,1
+537,3,21,18,0,0,16.66,4,bowled,2,South Africa,Kanpur,Test ,20-11-2004,1
+538,20,82,54,3,0,37.03,4,bowled,2,South Africa,Eden Gardens,Test ,28-11-2004,1
+539,32,73,64,3,1,50,4,not out,4,South Africa,Eden Gardens,Test ,28-11-2004,1
+540,248,552,379,35,0,65.43,4,not out,2,Bangladesh,Dhaka,Test ,10-12-2004,1
+541,36,79,55,6,0,65.45,4,lbw,1,Bangladesh,Chattogram,Test ,17-12-2004,1
+542,19,46,32,3,0,59.37,2,caught,1,Bangladesh,Chattogram,ODI ,23-12-2004,1
+543,47,60,42,9,0,111.9,2,caught,1,Bangladesh,Dhaka,ODI ,27-12-2004,1
+544,94,301,202,11,0,46.53,4,caught,2,Pakistan,Mohali,Test ,08-03-2005,1
+546,52,147,102,9,0,50.98,4,caught,1,Pakistan,Eden Gardens,Test ,16-03-2005,1
+547,52,117,91,9,0,57.14,4,caught,3,Pakistan,Eden Gardens,Test ,16-03-2005,1
+548,41,78,71,7,0,57.74,4,caught,2,Pakistan,Bengaluru,Test ,24-03-2005,1
+549,16,140,98,2,0,16.32,4,caught,4,Pakistan,Bengaluru,Test ,24-03-2005,1
+550,4,8,4,1,0,100,2,caught,1,Pakistan,Kochi,ODI ,02-04-2005,1
+551,2,17,8,0,0,25,2,run out,1,Pakistan,Visakhapatnam,ODI ,05-04-2005,1
+552,6,15,11,1,0,54.54,2,caught,2,Pakistan,Jamshedpur,ODI ,09-04-2005,1
+553,123,192,130,12,2,94.61,2,bowled,1,Pakistan,Ahmedabad,ODI ,12-04-2005,1
+554,1,13,10,0,0,10,2,caught,1,Pakistan,Kanpur,ODI ,15-04-2005,1
+555,9,38,15,0,0,60,2,bowled,2,Pakistan,Delhi,ODI ,17-04-2005,1
+556,93,149,96,9,2,96.87,2,caught,1,Sri Lanka,Nagpur,ODI ,25-10-2005,1
+557,67,87,69,11,0,97.1,2,not out,2,Sri Lanka,Mohali,ODI ,28-10-2005,1
+558,2,2,3,0,0,66.66,2,caught,2,Sri Lanka,Jaipur,ODI ,31-10-2005,1
+559,11,28,19,1,1,57.89,2,bowled,2,Sri Lanka,Pune,ODI ,03-11-2005,1
+560,19,46,30,3,0,63.33,2,caught,2,Sri Lanka,Rajkot,ODI ,09-11-2005,1
+561,39,76,48,8,0,81.25,2,caught,2,Sri Lanka,Vadodara,ODI ,12-11-2005,1
+562,2,20,9,0,0,22.22,2,caught,1,South Africa,Hyderabad,ODI ,16-11-2005,1
+563,2,31,22,0,0,9.09,2,caught,2,South Africa,Bengaluru,ODI ,19-11-2005,1
+564,2,18,15,0,0,13.33,3,caught,1,South Africa,Eden Gardens,ODI ,25-11-2005,1
+565,30,77,44,5,0,68.18,2,caught,2,South Africa,Wankhede,ODI ,28-11-2005,1
+566,22,157,126,2,0,17.46,4,lbw,1,Sri Lanka,Chennai,Test ,02-12-2005,1
+567,109,310,196,14,1,55.61,4,lbw,1,Sri Lanka,Delhi,Test ,10-12-2005,1
+568,16,42,28,3,0,57.14,4,lbw,3,Sri Lanka,Delhi,Test ,10-12-2005,1
+569,23,85,66,2,0,34.84,4,caught,1,Sri Lanka,Ahmedabad,Test ,18-12-2005,1
+570,19,40,29,3,0,65.51,4,lbw,3,Sri Lanka,Ahmedabad,Test ,18-12-2005,1
+572,14,64,33,3,0,42.42,4,caught,2,Pakistan,Faisalabad,Test ,21-01-2006,1
+574,23,49,29,5,0,79.31,4,bowled,2,Pakistan,Karachi,Test ,29-01-2006,1
+575,26,74,47,5,0,55.31,4,bowled,4,Pakistan,Karachi,Test ,29-01-2006,1
+576,100,188,113,10,1,88.49,2,lbw,1,Pakistan,Peshawar,ODI ,06-02-2006,1
+577,42,71,43,8,0,97.67,2,caught,2,Pakistan,Rawalpindi,ODI ,11-02-2006,1
+578,95,157,104,16,1,91.34,2,caught,2,Pakistan,Lahore,ODI ,13-02-2006,1
+579,0,7,3,0,0,0,2,caught,2,Pakistan,Multan,ODI ,16-02-2006,1
+580,16,84,45,2,0,35.55,4,lbw,2,England,Nagpur,Test ,01-03-2006,1
+581,28,38,19,5,0,147.36,6,not out,4,England,Nagpur,Test ,01-03-2006,1
+582,4,20,15,0,0,26.66,4,caught,2,England,Mohali,Test ,09-03-2006,1
+584,1,33,21,0,0,4.76,4,caught,2,England,Wankhede,Test ,18-03-2006,1
+585,34,77,57,5,0,59.64,5,caught,4,England,Wankhede,Test ,18-03-2006,1
+586,2,16,3,0,0,66.66,2,not out,1,Sri Lanka,Colombo (SSC),ODI ,18-08-2006,1
+587,141,-,148,13,5,95.27,2,not out,1,West Indies,Kuala Lumpur,ODI ,14-09-2006,1
+588,12,30,17,2,0,70.58,2,caught,2,Australia,Kuala Lumpur,ODI ,16-09-2006,1
+589,65,154,102,7,0,63.72,2,run out,1,West Indies,Kuala Lumpur,ODI ,20-09-2006,1
+590,4,11,10,1,0,40,2,caught,2,Australia,Kuala Lumpur,ODI ,22-09-2006,1
+591,35,87,41,5,0,85.36,2,lbw,2,England,Jaipur,ODI ,15-10-2006,1
+592,29,81,45,4,0,64.44,2,bowled,1,West Indies,Ahmedabad,ODI ,26-10-2006,1
+593,10,46,26,2,0,38.46,2,caught,1,Australia,Mohali,ODI ,29-10-2006,1
+594,35,79,51,5,0,68.62,2,bowled,2,South Africa,Durban,ODI ,22-11-2006,1
+595,2,20,9,0,0,22.22,2,caught,2,South Africa,Cape Town,ODI ,26-11-2006,1
+596,1,4,3,0,0,33.33,3,caught,2,South Africa,Gqeberha,ODI ,29-11-2006,1
+597,10,18,12,2,0,83.33,2,bowled,2,South Africa,Johannesburg,T20I ,01-12-2006,1
+598,55,134,97,8,0,56.7,2,caught,1,South Africa,Centurion,ODI ,03-12-2006,1
+599,44,113,89,7,0,49.43,4,caught,1,South Africa,Johannesburg,Test ,15-12-2006,1
+600,14,43,22,3,0,63.63,4,bowled,3,South Africa,Johannesburg,Test ,15-12-2006,1
+601,63,173,115,11,0,54.78,4,caught,2,South Africa,Durban,Test ,26-12-2006,1
+602,0,13,7,0,0,0,4,lbw,4,South Africa,Durban,Test ,26-12-2006,1
+603,64,187,130,11,0,49.23,4,caught,1,South Africa,Cape Town,Test ,02-01-2007,1
+604,14,88,62,1,0,22.58,5,lbw,3,South Africa,Cape Town,Test ,02-01-2007,1
+605,31,54,38,3,0,81.57,3,lbw,1,West Indies,Nagpur,ODI ,21-01-2007,1
+606,0,6,6,0,0,0,4,caught,1,West Indies,Cuttack,ODI ,24-01-2007,1
+607,60,112,66,2,0,90.9,4,caught,1,West Indies,Chennai,ODI ,27-01-2007,1
+608,100,110,76,10,1,131.57,4,not out,1,West Indies,Vadodara,ODI ,31-01-2007,1
+610,54,94,61,9,0,88.52,4,stumped,2,Sri Lanka,Rajkot,ODI ,11-02-2007,1
+611,1,13,8,0,0,12.5,3,bowled,2,Sri Lanka,Margao,ODI ,14-02-2007,1
+612,7,40,26,1,0,26.92,4,caught,1,Bangladesh,Port of Spain,ODI ,17-03-2007,1
+613,57,46,29,2,4,196.55,6,not out,1,Bermuda,Port of Spain,ODI ,19-03-2007,1
+614,0,5,3,0,0,0,4,bowled,2,Sri Lanka,Port of Spain,ODI ,23-03-2007,1
+615,101,274,169,9,0,59.76,4,caught,1,Bangladesh,Chattogram,Test ,18-05-2007,1
+616,31,69,50,2,0,62,4,bowled,3,Bangladesh,Chattogram,Test ,18-05-2007,1
+617,122,354,226,8,1,53.98,4,not out,1,Bangladesh,Mirpur,Test ,25-05-2007,1
+618,4,4,3,1,0,133.33,2,bowled,2,Ireland,Belfast,ODI ,23-06-2007,1
+619,99,199,143,12,0,69.23,2,run out,1,South Africa,Belfast,ODI ,26-06-2007,1
+620,93,140,106,13,2,87.73,2,bowled,2,South Africa,Belfast,ODI ,29-06-2007,1
+621,8,10,8,2,0,100,2,caught,2,South Africa,Belfast,ODI ,01-07-2007,1
+622,37,104,78,6,0,47.43,4,lbw,2,England,Lord's,Test ,19-07-2007,1
+623,16,42,35,3,0,45.71,4,lbw,4,England,Lord's,Test ,19-07-2007,1
+624,91,259,197,12,0,46.19,4,lbw,2,England,Nottingham,Test ,27-07-2007,1
+625,1,17,15,0,0,6.66,4,caught,4,England,Nottingham,Test ,27-07-2007,1
+626,82,298,192,11,0,42.7,4,caught,1,England,The Oval,Test ,09-08-2007,1
+627,1,13,11,0,0,9.09,4,bowled,3,England,The Oval,Test ,09-08-2007,1
+628,17,52,33,1,0,51.51,2,caught,2,England,Southampton,ODI ,21-08-2007,1
+629,99,158,112,15,1,88.39,2,caught,1,England,Bristol,ODI ,24-08-2007,1
+630,8,42,19,1,0,42.1,2,caught,2,England,Birmingham,ODI ,27-08-2007,1
+631,55,128,86,9,0,63.95,2,caught,1,England,Manchester,ODI ,30-08-2007,1
+632,71,87,59,13,0,120.33,2,caught,1,England,Leeds,ODI ,02-09-2007,1
+633,94,120,81,16,1,116.04,2,caught,2,England,The Oval,ODI ,05-09-2007,1
+634,30,80,46,4,0,65.21,2,caught,1,England,Lord's,ODI ,08-09-2007,1
+635,0,9,6,0,0,0,2,lbw,2,Australia,Bengaluru,ODI ,29-09-2007,1
+636,16,43,25,1,1,64,2,caught,2,Australia,Kochi,ODI ,02-10-2007,1
+637,43,119,71,6,0,60.56,2,bowled,2,Australia,Hyderabad,ODI ,05-10-2007,1
+638,79,184,119,7,0,66.38,2,run out,1,Australia,Chandigarh,ODI ,08-10-2007,1
+639,47,128,73,9,0,64.38,2,caught,1,Australia,Vadodara,ODI ,11-10-2007,1
+640,72,105,72,9,1,100,2,stumped,2,Australia,Nagpur,ODI ,14-10-2007,1
+641,21,52,36,4,0,58.33,2,bowled,2,Australia,Wankhede,ODI ,17-10-2007,1
+642,4,14,7,1,0,57.14,2,lbw,2,Pakistan,Guwahati,ODI ,05-11-2007,1
+643,99,130,91,14,1,108.79,2,caught,1,Pakistan,Mohali,ODI ,08-11-2007,1
+644,29,54,27,5,0,107.4,2,caught,1,Pakistan,Kanpur,ODI ,11-11-2007,1
+645,97,149,102,16,0,95.09,2,bowled,2,Pakistan,Gwalior,ODI ,15-11-2007,1
+646,30,54,27,6,0,111.11,2,caught,2,Pakistan,Jaipur,ODI ,18-11-2007,1
+647,1,2,1,0,0,100,4,run out,2,Pakistan,Delhi,Test ,22-11-2007,1
+648,56,178,110,9,0,50.9,4,not out,4,Pakistan,Delhi,Test ,22-11-2007,1
+649,82,146,109,12,0,75.22,4,bowled,1,Pakistan,Eden Gardens,Test ,30-11-2007,1
+651,62,113,77,7,1,80.51,4,bowled,2,Australia,Melbourne,Test ,26-12-2007,1
+652,15,31,21,1,0,71.42,4,caught,4,Australia,Melbourne,Test ,26-12-2007,1
+653,154,429,243,14,1,63.37,4,not out,2,Australia,Sydney,Test ,02-01-2008,1
+654,12,33,16,3,0,75,4,bowled,4,Australia,Sydney,Test ,02-01-2008,1
+655,71,175,128,9,0,55.46,4,lbw,1,Australia,Perth,Test ,16-01-2008,1
+656,13,33,25,2,0,52,5,lbw,3,Australia,Perth,Test ,16-01-2008,1
+657,153,342,205,13,3,74.63,4,caught,1,Australia,Adelaide,Test ,24-01-2008,1
+658,13,67,36,1,0,36.11,4,run out,3,Australia,Adelaide,Test ,24-01-2008,1
+659,10,30,17,1,0,58.82,2,hit wicket,1,Australia,Brisbane,ODI ,03-02-2008,1
+660,35,70,52,2,0,67.3,2,bowled,1,Sri Lanka,Brisbane,ODI ,05-02-2008,1
+661,44,123,54,3,0,81.48,2,caught,2,Australia,Melbourne,ODI ,10-02-2008,1
+662,32,41,30,4,0,106.66,2,caught,1,Sri Lanka,Canberra,ODI ,12-02-2008,1
+663,5,23,15,1,0,33.33,2,lbw,2,Australia,Adelaide,ODI ,17-02-2008,1
+664,0,6,2,0,0,0,2,bowled,2,Sri Lanka,Adelaide,ODI ,19-02-2008,1
+665,2,3,3,0,0,66.66,2,lbw,2,Australia,Sydney,ODI ,24-02-2008,1
+666,63,92,54,10,0,116.66,2,caught,2,Sri Lanka,Hobart,ODI ,26-02-2008,1
+667,117,235,120,10,0,97.5,2,not out,2,Australia,Sydney,ODI ,02-03-2008,1
+668,91,176,121,7,0,75.2,2,caught,1,Australia,Brisbane,ODI ,04-03-2008,1
+669,0,9,5,0,0,0,4,caught,2,South Africa,Chennai,Test ,26-03-2008,1
+670,27,60,46,3,0,58.69,4,bowled,2,Sri Lanka,Colombo (SSC),Test ,23-07-2008,1
+671,12,42,30,1,0,40,4,caught,3,Sri Lanka,Colombo (SSC),Test ,23-07-2008,1
+672,5,5,3,1,0,166.66,4,lbw,1,Sri Lanka,Galle,Test ,31-07-2008,1
+673,31,54,42,5,0,73.8,4,caught,3,Sri Lanka,Galle,Test ,31-07-2008,1
+674,6,18,12,0,0,50,4,lbw,1,Sri Lanka,Colombo (PSS),Test ,08-08-2008,1
+675,14,26,22,1,0,63.63,6,lbw,3,Sri Lanka,Colombo (PSS),Test ,08-08-2008,1
+676,13,26,18,3,0,72.22,4,caught,2,Australia,Bengaluru,Test ,09-10-2008,1
+677,49,177,126,4,0,38.88,4,caught,4,Australia,Bengaluru,Test ,09-10-2008,1
+678,88,186,111,10,0,79.27,4,caught,1,Australia,Mohali,Test ,17-10-2008,1
+679,10,16,12,1,0,83.33,5,not out,3,Australia,Mohali,Test ,17-10-2008,1
+680,68,188,126,11,0,53.96,4,caught,1,Australia,Delhi,Test ,29-10-2008,1
+681,47,159,120,4,0,39.16,5,caught,3,Australia,Delhi,Test ,29-10-2008,1
+682,109,274,188,12,0,57.97,4,lbw,1,Australia,Nagpur,Test ,06-11-2008,1
+683,12,90,55,1,0,21.81,4,run out,3,Australia,Nagpur,Test ,06-11-2008,1
+684,11,40,21,2,0,52.38,2,bowled,1,England,Bengaluru,ODI ,23-11-2008,1
+685,50,99,57,6,0,87.71,2,bowled,2,England,Cuttack,ODI ,26-11-2008,1
+686,37,90,48,4,1,77.08,4,caught,2,England,Chennai,Test ,11-12-2008,1
+687,103,317,196,9,0,52.55,4,not out,4,England,Chennai,Test ,11-12-2008,1
+688,11,45,26,1,0,42.3,4,lbw,1,England,Mohali,Test ,19-12-2008,1
+689,5,41,22,1,0,22.72,4,caught,3,England,Mohali,Test ,19-12-2008,1
+690,5,15,16,0,0,31.25,2,lbw,2,Sri Lanka,Dambulla,ODI ,28-01-2009,1
+691,6,11,9,0,0,66.66,2,lbw,1,Sri Lanka,Colombo (RPS),ODI ,31-01-2009,1
+692,7,9,12,0,1,58.33,2,lbw,1,Sri Lanka,Colombo (RPS),ODI ,03-02-2009,1
+693,20,43,23,2,0,86.95,2,caught,1,New Zealand,Napier,ODI ,03-03-2009,1
+694,61,100,69,7,1,88.4,2,lbw,1,New Zealand,Wellington,ODI ,06-03-2009,1
+695,163,206,133,16,5,122.55,2,retired notout,1,New Zealand,Christchurch,ODI ,08-03-2009,1
+696,160,397,260,26,0,61.53,4,caught,2,New Zealand,Hamilton,Test ,18-03-2009,1
+698,49,98,65,7,1,75.38,5,caught,2,New Zealand,Napier,Test ,26-03-2009,1
+699,64,167,131,9,1,48.85,4,caught,3,New Zealand,Napier,Test ,26-03-2009,1
+700,62,108,85,11,0,72.94,4,caught,1,New Zealand,Wellington,Test ,03-04-2009,1
+701,9,25,20,0,1,45,4,caught,3,New Zealand,Wellington,Test ,03-04-2009,1
+702,46,81,55,6,0,83.63,2,caught,2,New Zealand,Colombo (RPS),ODI ,11-09-2009,1
+703,27,63,33,5,0,81.81,2,caught,2,Sri Lanka,Colombo (RPS),ODI ,12-09-2009,1
+704,138,214,133,10,1,103.75,2,lbw,1,Sri Lanka,Colombo (RPS),ODI ,14-09-2009,1
+705,8,19,14,1,0,57.14,2,caught,2,Pakistan,Centurion,ODI ,26-09-2009,1
+707,14,40,29,2,0,48.27,2,caught,2,Australia,Vadodara,ODI ,25-10-2009,1
+708,4,14,8,1,0,50,2,caught,1,Australia,Nagpur,ODI ,28-10-2009,1
+709,32,63,47,2,0,68.08,2,run out,2,Australia,Delhi,ODI ,31-10-2009,1
+710,40,86,68,6,0,58.82,2,lbw,2,Australia,Mohali,ODI ,02-11-2009,1
+711,175,210,141,19,4,124.11,2,caught,2,Australia,Hyderabad,ODI ,05-11-2009,1
+712,10,23,17,2,0,58.82,2,caught,1,Australia,Guwahati,ODI ,08-11-2009,1
+713,4,3,3,1,0,133.33,4,bowled,1,Sri Lanka,Ahmedabad,Test ,16-11-2009,1
+714,100,298,211,11,0,47.39,5,not out,3,Sri Lanka,Ahmedabad,Test ,16-11-2009,1
+715,40,122,91,0,1,43.95,4,caught,1,Sri Lanka,Kanpur,Test ,24-11-2009,1
+716,53,139,103,6,0,51.45,4,bowled,2,Sri Lanka,Brabourne,Test ,02-12-2009,1
+717,69,91,63,10,1,109.52,2,bowled,1,Sri Lanka,Rajkot,ODI ,15-12-2009,1
+718,43,76,52,4,0,82.69,2,stumped,1,Sri Lanka,Nagpur,ODI ,18-12-2009,1
+719,96,187,104,13,0,92.3,2,not out,2,Sri Lanka,Cuttack,ODI ,21-12-2009,1
+720,8,-,8,2,0,100,2,caught,2,Sri Lanka,Eden Gardens,ODI ,24-12-2009,1
+721,105,246,166,11,2,63.25,4,not out,1,Bangladesh,Chattogram,Test ,17-01-2010,1
+722,16,47,26,2,0,61.53,5,lbw,3,Bangladesh,Chattogram,Test ,17-01-2010,1
+723,143,259,182,13,1,78.57,4,caught,2,Bangladesh,Mirpur,Test ,24-01-2010,1
+725,7,25,16,1,0,43.75,4,caught,2,South Africa,Nagpur,Test ,06-02-2010,1
+726,100,275,179,13,0,55.86,4,bowled,3,South Africa,Nagpur,Test ,06-02-2010,1
+727,106,266,206,12,0,51.45,4,caught,2,South Africa,Eden Gardens,Test ,14-02-2010,1
+728,4,-,5,1,0,80,2,run out,1,South Africa,Jaipur,ODI ,21-02-2010,1
+729,200,226,147,25,3,136.05,2,not out,1,South Africa,Gwalior,ODI ,24-02-2010,1
+730,8,29,21,1,0,38.09,4,lbw,2,Sri Lanka,Galle,Test ,18-07-2010,1
+731,84,168,142,11,1,59.15,4,lbw,3,Sri Lanka,Galle,Test ,18-07-2010,1
+732,203,516,347,23,1,58.5,4,caught,2,Sri Lanka,Colombo (SSC),Test ,26-07-2010,1
+733,41,88,72,5,0,56.94,4,caught,2,Sri Lanka,Colombo (PSS),Test ,03-08-2010,1
+734,54,186,122,3,0,44.26,4,caught,4,Sri Lanka,Colombo (PSS),Test ,03-08-2010,1
+735,98,251,189,13,0,51.85,5,lbw,2,Australia,Mohali,Test ,01-10-2010,1
+736,38,106,64,5,0,59.37,4,caught,4,Australia,Mohali,Test ,01-10-2010,1
+737,214,547,363,22,2,58.95,4,bowled,2,Australia,Bengaluru,Test ,09-10-2010,1
+738,53,125,77,5,2,68.83,4,not out,4,Australia,Bengaluru,Test ,09-10-2010,1
+739,40,168,133,5,0,30.07,4,caught,1,New Zealand,Ahmedabad,Test ,04-11-2010,1
+740,12,27,25,2,0,48,4,bowled,3,New Zealand,Ahmedabad,Test ,04-11-2010,1
+741,13,52,28,1,0,46.42,4,caught,2,New Zealand,Hyderabad,Test ,12-11-2010,1
+743,61,162,129,8,0,47.28,4,caught,2,New Zealand,Nagpur,Test ,20-11-2010,1
+744,36,61,34,8,0,105.88,4,lbw,1,South Africa,Centurion,Test ,16-12-2010,1
+745,111,327,241,13,1,46.05,5,not out,3,South Africa,Centurion,Test ,16-12-2010,1
+746,13,42,22,3,0,59.09,4,caught,1,South Africa,Durban,Test ,26-12-2010,1
+747,6,22,10,1,0,60,4,caught,3,South Africa,Durban,Test ,26-12-2010,1
+748,146,465,314,17,2,46.49,4,bowled,2,South Africa,Cape Town,Test ,02-01-2011,1
+749,14,146,91,0,0,15.38,4,not out,4,South Africa,Cape Town,Test ,02-01-2011,1
+750,7,16,11,0,0,63.63,2,caught,2,South Africa,Durban,ODI ,12-01-2011,1
+751,24,78,44,2,0,54.54,2,bowled,1,South Africa,Johannesburg,ODI ,15-01-2011,1
+752,28,46,29,4,0,96.55,2,run out,1,Bangladesh,Mirpur,ODI ,19-02-2011,1
+753,120,170,115,10,5,104.34,2,caught,1,England,Bengaluru,ODI ,27-02-2011,1
+754,38,91,56,4,0,67.85,2,lbw,2,Ireland,Bengaluru,ODI ,06-03-2011,1
+755,27,45,22,6,0,122.72,2,caught,2,Netherlands,Delhi,ODI ,09-03-2011,1
+756,111,184,101,8,3,109.9,2,caught,1,South Africa,Nagpur,ODI ,12-03-2011,1
+757,2,4,4,0,0,50,2,caught,1,West Indies,Chennai,ODI ,20-03-2011,1
+758,53,93,68,7,0,77.94,2,caught,2,Australia,Ahmedabad,ODI ,24-03-2011,1
+759,85,160,115,11,0,73.91,2,caught,1,Pakistan,Mohali,ODI ,30-03-2011,1
+760,18,21,14,2,0,128.57,2,caught,2,Sri Lanka,Wankhede,ODI ,02-04-2011,1
+761,34,90,58,6,0,58.62,4,caught,2,England,Lord's,Test ,21-07-2011,1
+762,12,84,68,1,0,17.64,5,lbw,4,England,Lord's,Test ,21-07-2011,1
+763,16,33,34,3,0,47.05,4,caught,2,England,Nottingham,Test ,29-07-2011,1
+764,56,136,86,8,0,65.11,4,lbw,4,England,Nottingham,Test ,29-07-2011,1
+765,1,10,8,0,0,12.5,4,caught,1,England,Birmingham,Test ,10-08-2011,1
+766,40,92,60,8,0,66.66,4,run out,3,England,Birmingham,Test ,10-08-2011,1
+767,23,65,34,4,0,67.64,4,caught,2,England,The Oval,Test ,18-08-2011,1
+768,91,235,172,11,0,52.9,4,lbw,3,England,The Oval,Test ,18-08-2011,1
+769,7,25,18,1,0,38.88,4,lbw,2,West Indies,Delhi,Test ,06-11-2011,1
+770,76,200,148,10,0,51.35,4,lbw,4,West Indies,Delhi,Test ,06-11-2011,1
+771,38,74,71,5,0,53.52,4,caught,1,West Indies,Eden Gardens,Test ,14-11-2011,1
+772,94,219,153,8,2,61.43,4,caught,2,West Indies,Wankhede,Test ,22-11-2011,1
+773,3,6,7,0,0,42.85,4,caught,4,West Indies,Wankhede,Test ,22-11-2011,1
+774,73,151,98,8,1,74.48,4,bowled,2,Australia,Melbourne,Test ,26-12-2011,1
+775,32,73,46,4,0,69.56,4,caught,4,Australia,Melbourne,Test ,26-12-2011,1
+776,41,133,89,8,0,46.06,4,bowled,1,Australia,Sydney,Test ,03-01-2012,1
+777,80,213,141,9,0,56.73,4,caught,3,Australia,Sydney,Test ,03-01-2012,1
+778,15,46,25,3,0,60,4,lbw,1,Australia,Perth,Test ,13-01-2012,1
+779,8,22,16,1,0,50,4,lbw,3,Australia,Perth,Test ,13-01-2012,1
+780,25,94,69,3,0,36.23,4,caught,2,Australia,Adelaide,Test ,24-01-2012,1
+781,13,46,34,2,0,38.23,4,caught,4,Australia,Adelaide,Test ,24-01-2012,1
+782,2,9,6,0,0,33.33,2,caught,2,Australia,Melbourne,ODI ,05-02-2012,1
+783,48,87,63,5,0,76.19,2,bowled,2,Sri Lanka,Perth,ODI ,08-02-2012,1
+784,15,25,24,2,0,62.5,2,caught,2,Sri Lanka,Adelaide,ODI ,14-02-2012,1
+785,3,21,12,0,0,25,2,caught,2,Australia,Brisbane,ODI ,19-02-2012,1
+786,22,33,23,3,0,95.65,2,bowled,2,Sri Lanka,Brisbane,ODI ,21-02-2012,1
+787,14,34,15,2,0,93.33,2,run out,2,Australia,Sydney,ODI ,26-02-2012,1
+788,39,45,30,5,0,130,2,lbw,2,Sri Lanka,Hobart,ODI ,28-02-2012,1
+789,6,25,19,1,0,31.57,2,caught,1,Sri Lanka,Mirpur,ODI ,13-03-2012,1
+790,114,205,147,12,1,77.55,2,caught,1,Bangladesh,Mirpur,ODI ,16-03-2012,1
+791,52,93,48,5,1,108.33,2,caught,2,Pakistan,Mirpur,ODI ,18-03-2012,1
+792,19,86,62,2,0,30.64,4,bowled,1,New Zealand,Hyderabad,Test ,23-08-2012,1
+793,17,61,50,3,0,34,4,bowled,2,New Zealand,Bengaluru,Test ,31-08-2012,1
+794,27,78,34,5,0,79.41,4,bowled,4,New Zealand,Bengaluru,Test ,31-08-2012,1
+795,13,25,18,2,0,72.22,4,caught,1,England,Ahmedabad,Test ,15-11-2012,1
+797,8,14,12,1,0,66.66,4,bowled,1,England,Wankhede,Test ,23-11-2012,1
+798,8,28,19,2,0,42.1,4,lbw,3,England,Wankhede,Test ,23-11-2012,1
+799,76,202,155,13,0,49.03,4,caught,1,England,Eden Gardens,Test ,05-12-2012,1
+800,5,17,6,1,0,83.33,4,caught,3,England,Eden Gardens,Test ,05-12-2012,1
+801,2,25,13,0,0,15.38,4,bowled,2,England,Nagpur,Test ,13-12-2012,1
+802,81,257,159,7,0,50.94,4,bowled,2,Australia,Chennai,Test ,22-02-2013,1
+803,13,10,10,0,2,130,4,not out,4,Australia,Chennai,Test ,22-02-2013,1
+804,7,32,15,1,0,46.66,4,caught,2,Australia,Hyderabad,Test ,02-03-2013,1
+805,37,125,81,5,0,45.67,4,caught,2,Australia,Mohali,Test ,14-03-2013,1
+806,21,71,23,2,0,91.3,4,run out,4,Australia,Mohali,Test ,14-03-2013,1
+807,32,99,53,5,0,60.37,4,lbw,2,Australia,Delhi,Test ,22-03-2013,1
+808,1,8,5,0,0,20,4,lbw,4,Australia,Delhi,Test ,22-03-2013,1
+809,10,41,24,2,0,41.66,4,lbw,2,West Indies,Eden Gardens,Test ,06-11-2013,1
+810,74,150,118,12,0,62.71,4,caught,2,West Indies,Wankhede,Test ,14-11-2013,1

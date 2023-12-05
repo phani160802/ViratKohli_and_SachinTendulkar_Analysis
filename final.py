@@ -22,6 +22,8 @@ st.write("**Sachin Dataset**")
 sachin_df = load_sachin_file()
 
 
+virat_df['Opposition'] = virat_df['Opposition'].str.strip()
+
 st.dataframe(virat_df)
 st.dataframe(sachin_df)
 

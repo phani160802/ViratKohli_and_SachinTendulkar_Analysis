@@ -88,6 +88,9 @@ def show_centuries(virat_df,sachin_df):
     ax1.set_title("Centuries Analysis", fontsize=10)
     ax1.set_ylabel("Number of Centuries", fontsize=10)
     ax1.set_xlabel("Players", fontsize=8)
+    for p in ax1.patches:
+        ax1.annotate(f'{int(p.get_height())}', (p.get_x() + p.get_width() / 2., p.get_height()), ha='center', va='center', xytext=(0, 10), textcoords='offset points')
+
 
     # Plot for Runs Scored Analysis
     runs_data = [virat_df1['Runs'].sum(), sachin_df1['Runs'].sum()]
@@ -95,6 +98,9 @@ def show_centuries(virat_df,sachin_df):
     ax2.set_title("Runs Scored Analysis", fontsize=10)
     ax2.set_ylabel("Total Runs", fontsize=10)
     ax2.set_xlabel("Players", fontsize=8)
+    for p in ax2.patches:
+        ax2.annotate(f'{int(p.get_height())}', (p.get_x() + p.get_width() / 2., p.get_height()), ha='center', va='center', xytext=(0, 10), textcoords='offset points')
+
 
     sns.despine()
 

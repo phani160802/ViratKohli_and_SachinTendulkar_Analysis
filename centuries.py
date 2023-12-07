@@ -3,7 +3,7 @@ import seaborn as sns
 import pandas as pd
 import matplotlib.pyplot as plt
 from functools import reduce
-
+import emoji
 
 
 def show_centuries(virat_df,sachin_df):
@@ -52,7 +52,9 @@ def show_centuries(virat_df,sachin_df):
 
     # Filter Buttons
 
-    match_filter = st.radio("Select Match Type: ",['All','Test','ODI','T20I'],index=0,horizontal=True)
+
+    st.markdown("### Select Match Type: ")
+    match_filter = st.radio(" ",['All','Test','ODI','T20I'],index=0,horizontal=True)
 
     with st.sidebar:
         st.markdown("### Sidebar Filters:")
@@ -72,65 +74,44 @@ def show_centuries(virat_df,sachin_df):
     v_centuries = virat_df1[virat_df1['Runs']>=100].shape[0]
     s_centuries = sachin_df1[sachin_df1['Runs']>=100].shape[0]
     
-    # Bar Chart
-    fig, ax = plt.subplots(figsize=(3, 2))
-    sns.barplot(x=['Virat Kohli', 'Sachin Tendulkar'], y=[v_centuries, s_centuries], ax=ax, width=0.5)
+
+    st.markdown("### Filters Selected: ")
+    st.markdown(f"Match Type: {match_filter}")
+    st.markdown(f"Opposition: {opposition_filter}")
+    st.markdown(f"Innings: {innings_filter}") 
+    
+    # Bar Plot
+    fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(10, 4))  # Creating a subplot with two columns
+
+    # Plot for Centuries Analysis
+    colors = sns.color_palette("pastel")
+    sns.barplot(x=['Virat Kohli', 'Sachin Tendulkar'], y=[v_centuries, s_centuries], palette=colors, ax=ax1, width=0.5)
+    ax1.set_title("Centuries Analysis", fontsize=10)
+    ax1.set_ylabel("Number of Centuries", fontsize=10)
+    ax1.set_xlabel("Players", fontsize=8)
+
+    # Plot for Runs Scored Analysis
+    runs_data = [virat_df1['Runs'].sum(), sachin_df1['Runs'].sum()]
+    sns.barplot(x=['Virat Kohli', 'Sachin Tendulkar'], y=runs_data, palette=colors, ax=ax2, width=0.5)
+    ax2.set_title("Runs Scored Analysis", fontsize=10)
+    ax2.set_ylabel("Total Runs", fontsize=10)
+    ax2.set_xlabel("Players", fontsize=8)
+
+    sns.despine()
+
     # Show the plot
     st.pyplot(fig)
-    
+
+
+    st.markdown("## Unveiling Virat Kohli's CHASE MASTER Legacy 🏏")
+    st.markdown("Have you ever wondered why Virat Kohli has been given that name?🤔")
+    st.write("To find that Choose '2nd Innings' as your filter.")
+    st.write("Look the remarkable Number of Centuries made and Runs scored by Virat Kohli in the 2nd innings, revealing why he's hailed as the CHASE MASTER! 🏆")
 
 
 
 
 
-    # if match_filter == 'All':
-    #     # Filter data for centuries
-    #     v_centuries = virat_df[virat_df['Runs']>=100].shape[0]
-    #     s_centuries = sachin_df[sachin_df['Runs']>=100].shape[0]
-
-
-    #     # Bar Chart
-    #     fig, ax = plt.subplots(figsize=(3, 2))
-    #     sns.barplot(x=['Virat Kohli', 'Sachin Tendulkar'], y=[v_centuries, s_centuries], ax=ax, width=0.5)
-
-    #     # Show the plot
-    #     st.pyplot(fig)
-    
-    # elif match_filter == 'Test':
-
-    #     virat_df1,sachin_df1 = matchtype(virat_df,sachin_df,match_filter)
-    #     v_centuries = virat_df1[virat_df1['Runs']>=100].shape[0]
-    #     s_centuries = sachin_df1[sachin_df1['Runs']>=100].shape[0]
-    #     # Bar Chart
-    #     fig, ax = plt.subplots(figsize=(3, 2))
-    #     sns.barplot(x=['Virat Kohli', 'Sachin Tendulkar'], y=[v_centuries, s_centuries], ax=ax, width=0.5)
-
-    #     # Show the plot
-    #     st.pyplot(fig)
-
-    # elif match_filter == 'ODI':
-
-    #     virat_df2,sachin_df2 = matchtype(virat_df,sachin_df,match_filter)
-    #     v_centuries = virat_df2[virat_df2['Runs']>=100].shape[0]
-    #     s_centuries = sachin_df2[sachin_df2['Runs']>=100].shape[0]
-    #     # Bar Chart
-    #     fig, ax = plt.subplots(figsize=(3, 2))
-    #     sns.barplot(x=['Virat Kohli', 'Sachin Tendulkar'], y=[v_centuries, s_centuries], ax=ax, width=0.5)
-
-    #     # Show the plot
-    #     st.pyplot(fig)
-
-    # elif match_filter == 'T20I':
-
-    #     virat_df3,sachin_df3 = matchtype(virat_df,sachin_df,match_filter)
-    #     v_centuries = virat_df3[virat_df3['Runs']>=100].shape[0]
-    #     s_centuries = sachin_df3[sachin_df3['Runs']>=100].shape[0]
-    #     # Bar Chart
-    #     fig, ax = plt.subplots(figsize=(3, 2))
-    #     sns.barplot(x=['Virat Kohli', 'Sachin Tendulkar'], y=[v_centuries, s_centuries], ax=ax, width=0.5)
-
-    #     # Show the plot
-    #     st.pyplot(fig)
 
 
     

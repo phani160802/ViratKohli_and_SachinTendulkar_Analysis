@@ -3,3 +3,5 @@ pandas
 seaborn
 matplotlib
 altair
+streamlit_lottie
+requests

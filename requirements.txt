@@ -5,4 +5,3 @@ matplotlib
 altair
 streamlit_lottie
 requests
-option_menu

@@ -2,8 +2,7 @@ import streamlit as st
 import seaborn as sns
 import pandas as pd
 import matplotlib.pyplot as plt
-from functools import reduce
-import emoji
+#from functools import reduce
 
 
 def show_centuries(virat_df,sachin_df):

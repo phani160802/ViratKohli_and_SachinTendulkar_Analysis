@@ -1,14 +1,11 @@
 import pandas as pd
 import streamlit as st
-import seaborn as sns
 import matplotlib.pyplot as plt
-from streamlit_option_menu import option_menu
 from centuries import show_centuries
 from strikerate import show_strikerate
 from boundaries import show_boundaries
 from runs import show_runs
 from dismissal import show_dismissal
-import json
 import requests  
 from streamlit_lottie import st_lottie  
 

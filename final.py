@@ -1,11 +1,17 @@
+import importlib
 import pandas as pd
 import streamlit as st
+import seaborn as sns
+import altair as alt
 import matplotlib.pyplot as plt
+from streamlit_option_menu import option_menu
 from centuries import show_centuries
 from strikerate import show_strikerate
 from boundaries import show_boundaries
 from runs import show_runs
 from dismissal import show_dismissal
+from prediction import show_prediction
+import json
 import requests  
 from streamlit_lottie import st_lottie  
 
@@ -14,6 +20,7 @@ def load_virat_file():
     virat_df = pd.read_csv('final_virat_stat.csv')
     virat_df['Opposition'] = virat_df['Opposition'].str.strip()
     virat_df['SR'] = pd.to_numeric(virat_df['SR'].replace('-', 0))
+    virat_df['Inns'] = pd.to_numeric(virat_df['Inns'].replace('-', 0))
     virat_df.drop("Unnamed: 0",axis=1,inplace=True)
     virat_df['Match Type'] = [i.strip() for i in virat_df['Match Type']]
     return(virat_df)
@@ -24,6 +31,8 @@ def load_sachin_file():
     sachin_df = pd.read_csv('final_sachin_stats.csv')
     sachin_df['Opposition'] = sachin_df['Opposition'].str.strip()
     sachin_df['SR'] = pd.to_numeric(sachin_df['SR'].replace('-', 0))
+    sachin_df['4s'] = pd.to_numeric(sachin_df['4s'].replace('-', 0))
+    sachin_df['6s'] = pd.to_numeric(sachin_df['6s'].replace('-', 0))
     sachin_df['Match Type'] = [i.strip() for i in sachin_df['Match Type']]
     sachin_df.drop("Unnamed: 0",axis=1,inplace=True)
     return(sachin_df)
@@ -48,7 +57,7 @@ lottie_hello = load_lottieurl("https://lottie.host/3c812719-2de8-4e54-829e-6123a
 # st.sidebar.title('Welcome to Cric Stats')
 
 
-selected = st.sidebar.radio('Pick a criteria to analyze:', ['Home Page','Centuries','Runs', 'Boundaries','Strike Rate','Dismissal'],index=0)
+selected = st.sidebar.radio('Pick a criteria to analyze:', ['Home Page','Centuries','Runs','Dismissal','Prediction Game'],index=0)
 
 
 # Navigation to Pages
@@ -67,6 +76,9 @@ elif selected == 'Strike Rate':
 
 elif selected =='Dismissal':
     show_dismissal(virat_df,sachin_df)
+
+elif selected == 'Prediction Game':
+    show_prediction(virat_df,sachin_df)
 
 elif selected == 'Home Page':
     v_totalruns = virat_df['Runs'].sum()

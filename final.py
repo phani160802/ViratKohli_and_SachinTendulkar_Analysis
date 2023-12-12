@@ -4,7 +4,6 @@ import streamlit as st
 import seaborn as sns
 import altair as alt
 import matplotlib.pyplot as plt
-from streamlit_option_menu import option_menu
 from centuries import show_centuries
 from strikerate import show_strikerate
 from boundaries import show_boundaries

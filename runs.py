@@ -24,11 +24,9 @@ def show_runs(virat_df,sachin_df):
                         filtered_df = filtered_df[filtered_df[column] == int(values)]
                 else:
                     if isinstance(values, list):
-                        # Use str.contains for partial string match
                         filter_condition = filtered_df[column].str.contains('|'.join(map(str.strip, values)), case=False)
                         filtered_df = filtered_df[filter_condition]
                     else:
-                        # Use str.contains for partial string match
                         filter_condition = filtered_df[column].str.contains(values, case=False)
                         filtered_df = filtered_df[filter_condition]
 
@@ -144,7 +142,7 @@ def show_runs(virat_df,sachin_df):
 
                 st.dataframe(final_df)
 
-                st.markdown("### Easy For Your Eyes :) ")
+                st.markdown("### Visual Delight.. ")
                 fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(20, 12))  # Creating a subplot with two columns
 
                 # Plot for Max Runs Scored Analysis

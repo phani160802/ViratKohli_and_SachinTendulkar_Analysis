@@ -6,7 +6,6 @@ import altair as alt
 import matplotlib.pyplot as plt
 from centuries import show_centuries
 from strikerate import show_strikerate
-from boundaries import show_boundaries
 from runs import show_runs
 from dismissal import show_dismissal
 from prediction import show_prediction

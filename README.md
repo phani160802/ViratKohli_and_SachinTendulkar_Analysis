@@ -5,8 +5,7 @@ Step into the cricketing arena as we compare Sachin Tendulkar and Virat Kohli's 
 Explore the Runs, Centuries, Dismissals, and the thrilling Prediction Game pages. In Runs, check out how many runs a player scored and the speed at which they played. Perfect for understanding their game. Move to Dismissals, where you'll discover the types of dismissals each player faces against specific opponents, revealing their vulnerabilities.
 
 But wait, there's more! Dive into the Prediction Game, where you become the predictor. Guess the runs or the type of dismissal a player might face under different conditions. It's a fun challenge to test your cricket instincts.
-## Streamlit app
-https://cricketlegends-performance-faceoff.streamlit.app/
+**Streamlit app: **https://cricketlegends-performance-faceoff.streamlit.app/
 ## Data Source
 Virat Kohli's and Sachin Tendulkar's data have been scraped from the ESPN Cricinfo website.
 

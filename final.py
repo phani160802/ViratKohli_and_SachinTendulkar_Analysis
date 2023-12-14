@@ -63,12 +63,6 @@ if selected == 'Centuries':
 elif selected == 'Runs':
     show_runs(virat_df,sachin_df)
 
-elif selected == 'Boundaries':
-    show_boundaries(virat_df,sachin_df)
-
-elif selected == 'Strike Rate':
-    show_strikerate(virat_df,sachin_df) 
-
 elif selected =='Dismissal':
     show_dismissal(virat_df,sachin_df)
 
@@ -121,7 +115,7 @@ elif selected == 'Home Page':
         loop=True,
         quality="low",
         height = 300,
-        width=300,
+        width=400,
         key=None,
     )
 

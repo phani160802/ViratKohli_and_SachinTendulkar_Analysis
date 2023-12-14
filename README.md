@@ -8,10 +8,14 @@ But wait, there's more! Dive into the Prediction Game, where you become the pred
 ## Streamlit app
 https://cricketlegends-performance-faceoff.streamlit.app/
 ## Data Source
-Virat Kohli's and Sachin Tendulkar's data has been scrapped from the ESPN Cricinfo website.
+Virat Kohli's and Sachin Tendulkar's data have been scraped from the ESPN Cricinfo website.
 
-Virat Kohli's Data: https://stats.espncricinfo.com/ci/engine/player/253802.html?class=11;template=results;type=batting;view=innings
-Sachin Tendulkar's Data: https://stats.espncricinfo.com/ci/engine/player/35320.html?class=11;template=results;type=batting;view=innings
+Virat Kohli's Data:  
+https://stats.espncricinfo.com/ci/engine/player/253802.html?class=11;template=results;type=batting;view=innings
+
+Sachin Tendulkar's Data:  
+https://stats.espncricinfo.com/ci/engine/player/35320.html?class=11;template=results;type=batting;view=innings
+
 
 ## Data Pre-Processing
  The raw data has a lot of unwanted and wrongly formatted data. So the main task after scraping the data was to clean  it and convert it into the format I wanted.

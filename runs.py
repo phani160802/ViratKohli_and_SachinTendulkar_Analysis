@@ -7,7 +7,6 @@ import numpy as np
 
 
 def show_runs(virat_df,sachin_df):
-    # Functions 
     
     def matchtype(df,df1,x):
         return (df[df['Match Type']==x],df1[df1['Match Type']==x])

@@ -9,7 +9,7 @@ But wait, there's more! Dive into the Prediction Game, where you become the pred
 ## Data Source
 Virat Kohli's and Sachin Tendulkar's data has been scrapped from the ESPN Cricinfo website.
 
-Virat Kohli's Data: https://stats.espncricinfo.com/ci/engine/player/253802.html?class=11;template=results;type=batting;view=innings
+Virat Kohli's Data: https://stats.espncricinfo.com/ci/engine/player/253802.html?class=11;template=results;type=batting;view=innings__
 Sachin Tendulkar's Data: https://stats.espncricinfo.com/ci/engine/player/35320.html?class=11;template=results;type=batting;view=innings
 
 ## Data Pre-Processing

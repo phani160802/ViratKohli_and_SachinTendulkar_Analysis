@@ -1,0 +1,565 @@
+,Runs,Mins,BF,4s,6s,SR,Pos,Dismissal,Inns,Opposition,Ground,Match Type,Date,Player ID
+1,12,33,22,1,0,54.54,2,lbw,1, Sri Lanka,Dambulla,ODI ,18-08-2008,2
+2,37,82,67,6,0,55.22,2,caught,2, Sri Lanka,Dambulla,ODI ,20-08-2008,2
+3,25,40,38,4,0,65.78,1,run out,1, Sri Lanka,Colombo (RPS),ODI ,24-08-2008,2
+4,54,87,66,7,0,81.81,1,bowled,1, Sri Lanka,Colombo (RPS),ODI ,27-08-2008,2
+5,31,45,46,3,1,67.39,1,lbw,2, Sri Lanka,Colombo (RPS),ODI ,29-08-2008,2
+6,2,6,2,0,0,100,7,not out,1, Sri Lanka,Colombo (RPS),ODI ,14-09-2009,2
+7,16,28,24,1,0,66.66,4,caught,2, Pakistan,Centurion,ODI ,26-09-2009,2
+9,79,121,104,9,2,75.96,4,not out,2, West Indies,Johannesburg,ODI ,30-09-2009,2
+10,30,53,41,3,0,73.17,4,caught,2, Australia,Vadodara,ODI ,25-10-2009,2
+11,10,32,16,1,0,62.5,3,caught,2, Australia,Mohali,ODI ,02-11-2009,2
+12,27,20,19,4,0,142.1,7,bowled,1, Sri Lanka,Rajkot,ODI ,15-12-2009,2
+13,54,93,65,7,0,83.07,4,lbw,1, Sri Lanka,Nagpur,ODI ,18-12-2009,2
+14,107,-,114,11,1,93.85,4,caught,2, Sri Lanka,Eden Gardens,ODI ,24-12-2009,2
+16,9,19,12,1,0,75,3,caught,1, Sri Lanka,Mirpur,ODI ,05-01-2010,2
+17,91,136,102,7,0,89.21,3,caught,2, Bangladesh,Mirpur,ODI ,07-01-2010,2
+18,71,98,68,9,0,104.41,3,not out,2, Sri Lanka,Mirpur,ODI ,10-01-2010,2
+19,102,128,95,11,0,107.36,3,not out,2, Bangladesh,Mirpur,ODI ,11-01-2010,2
+20,2,6,8,0,0,25,3,caught,1, Sri Lanka,Mirpur,ODI ,13-01-2010,2
+21,31,-,46,1,0,67.39,5,caught,1, South Africa,Jaipur,ODI ,21-02-2010,2
+23,57,-,71,4,1,80.28,3,caught,2, South Africa,Ahmedabad,ODI ,27-02-2010,2
+24,0,3,0,0,0,-,3,run out,1, Zimbabwe,Bulawayo,ODI ,28-05-2010,2
+25,82,125,92,4,0,89.13,3,caught,2, Sri Lanka,Bulawayo,ODI ,30-05-2010,2
+26,18,28,29,1,0,62.06,3,caught,1, Zimbabwe,Harare,ODI ,03-06-2010,2
+27,68,123,95,5,0,71.57,3,caught,1, Sri Lanka,Harare,ODI ,05-06-2010,2
+28,26,30,21,3,1,123.8,5,not out,2, Zimbabwe,Harare,T20I ,12-06-2010,2
+30,11,35,22,0,0,50,3,stumped,2, Bangladesh,Dambulla,ODI ,16-06-2010,2
+31,18,31,27,1,0,66.66,3,bowled,2, Pakistan,Dambulla,ODI ,19-06-2010,2
+32,10,13,14,1,0,71.42,3,caught,1, Sri Lanka,Dambulla,ODI ,22-06-2010,2
+33,28,57,34,4,0,82.35,3,caught,1, Sri Lanka,Dambulla,ODI ,24-06-2010,2
+34,0,5,3,0,0,0,3,caught,2, Sri Lanka,Dambulla,ODI ,16-08-2010,2
+35,8,22,16,1,0,50,3,caught,1, New Zealand,Dambulla,ODI ,25-08-2010,2
+36,37,98,57,5,0,64.91,3,caught,2, Sri Lanka,Dambulla,ODI ,28-08-2010,2
+37,118,193,121,11,1,97.52,3,caught,2, Australia,Visakhapatnam,ODI ,20-10-2010,2
+38,105,162,104,10,0,100.96,3,caught,1, New Zealand,Guwahati,ODI ,28-11-2010,2
+39,64,78,73,8,0,87.67,3,caught,2, New Zealand,Jaipur,ODI ,01-12-2010,2
+40,63,83,70,6,2,90,3,not out,2, New Zealand,Vadodara,ODI ,04-12-2010,2
+41,0,3,2,0,0,0,3,caught,2, New Zealand,Bengaluru,ODI ,07-12-2010,2
+42,2,10,8,0,0,25,3,caught,2, New Zealand,Chennai,ODI ,10-12-2010,2
+43,28,28,19,5,0,147.36,1,bowled,1, South Africa,Durban,T20I ,09-01-2011,2
+44,54,122,70,2,1,77.14,3,caught,2, South Africa,Durban,ODI ,12-01-2011,2
+45,22,43,34,1,0,64.7,3,run out,1, South Africa,Johannesburg,ODI ,15-01-2011,2
+46,28,51,41,5,0,68.29,3,caught,2, South Africa,Cape Town,ODI ,18-01-2011,2
+47,87,126,92,7,2,94.56,3,not out,2, South Africa,Gqeberha,ODI ,21-01-2011,2
+48,2,11,6,0,0,33.33,3,caught,2, South Africa,Centurion,ODI ,23-01-2011,2
+49,100,113,83,8,2,120.48,4,not out,1, Bangladesh,Mirpur,ODI ,19-02-2011,2
+50,8,12,5,1,0,160,7,bowled,1, England,Bengaluru,ODI ,27-02-2011,2
+51,34,82,53,3,0,64.15,4,run out,2, Ireland,Bengaluru,ODI ,06-03-2011,2
+52,12,16,20,2,0,60,5,bowled,2, Netherlands,Delhi,ODI ,09-03-2011,2
+53,1,2,3,0,0,33.33,7,caught,1, South Africa,Nagpur,ODI ,12-03-2011,2
+54,59,128,76,5,0,77.63,3,bowled,1, West Indies,Chennai,ODI ,20-03-2011,2
+55,24,38,33,1,0,72.72,4,caught,2, Australia,Ahmedabad,ODI ,24-03-2011,2
+56,9,20,21,0,0,42.85,4,caught,1, Pakistan,Mohali,ODI ,30-03-2011,2
+57,35,69,49,4,0,71.42,4,caught,2, Sri Lanka,Wankhede,ODI ,02-04-2011,2
+58,14,15,12,2,0,116.66,3,caught,1, West Indies,Port of Spain,T20I ,04-06-2011,2
+59,2,5,8,0,0,25,3,caught,2, West Indies,Port of Spain,ODI ,06-06-2011,2
+60,81,118,103,6,1,78.64,3,caught,2, West Indies,Port of Spain,ODI ,08-06-2011,2
+61,0,1,1,0,0,0,3,lbw,2, West Indies,North Sound,ODI ,11-06-2011,2
+62,22,68,33,1,0,66.66,3,stumped,2, West Indies,North Sound,ODI ,13-06-2011,2
+63,94,135,104,10,0,90.38,3,run out,1, West Indies,Kingston,ODI ,16-06-2011,2
+64,4,13,10,1,0,40,5,caught,1, West Indies,Kingston,Test ,20-06-2011,2
+65,15,72,54,2,0,27.77,5,caught,3, West Indies,Kingston,Test ,20-06-2011,2
+66,0,1,2,0,0,0,5,caught,1, West Indies,Bridgetown,Test ,28-06-2011,2
+67,27,118,107,1,1,25.23,5,caught,3, West Indies,Bridgetown,Test ,28-06-2011,2
+68,30,62,53,2,0,56.6,5,caught,2, West Indies,Roseau,Test ,06-07-2011,2
+70,4,5,5,0,0,80,4,caught,1, England,Manchester,T20I ,31-08-2011,2
+71,55,92,73,4,0,75.34,4,bowled,1, England,Chester-le-Street,ODI ,03-09-2011,2
+72,9,9,9,0,0,100,4,caught,1, England,Southampton,ODI ,06-09-2011,2
+73,7,18,18,0,0,38.88,4,caught,1, England,The Oval,ODI ,09-09-2011,2
+74,16,40,36,1,0,44.44,4,caught,1, England,Lord's,ODI ,11-09-2011,2
+75,107,102,93,9,1,115.05,4,hit wicket,1, England,Cardiff,ODI ,16-09-2011,2
+76,37,70,63,0,0,58.73,4,caught,1, England,Hyderabad,ODI ,14-10-2011,2
+77,112,134,98,16,0,114.28,4,not out,2, England,Delhi,ODI ,17-10-2011,2
+78,35,42,30,5,0,116.66,4,lbw,2, England,Mohali,ODI ,20-10-2011,2
+79,86,-,99,11,0,86.86,4,not out,2, England,Wankhede,ODI ,23-10-2011,2
+80,0,5,5,0,0,0,3,bowled,1, England,Eden Gardens,ODI ,25-10-2011,2
+81,15,21,16,3,0,93.75,3,caught,1, England,Eden Gardens,T20I ,29-10-2011,2
+82,52,154,111,5,0,46.84,6,caught,2, West Indies,Wankhede,Test ,22-11-2011,2
+83,63,136,114,3,1,55.26,6,caught,4, West Indies,Wankhede,Test ,22-11-2011,2
+84,3,13,6,0,0,50,4,bowled,2, West Indies,Cuttack,ODI ,29-11-2011,2
+85,117,154,123,14,0,95.12,4,caught,2, West Indies,Visakhapatnam,ODI ,02-12-2011,2
+86,20,21,30,3,0,66.66,4,lbw,2, West Indies,Ahmedabad,ODI ,05-12-2011,2
+87,23,15,11,3,0,209.09,6,not out,1, West Indies,Indore,ODI ,08-12-2011,2
+88,80,99,85,5,0,94.11,5,caught,1, West Indies,Chennai,ODI ,11-12-2011,2
+89,11,28,21,1,0,52.38,7,caught,2, Australia,Melbourne,Test ,26-12-2011,2
+90,0,3,1,0,0,0,6,lbw,4, Australia,Melbourne,Test ,26-12-2011,2
+91,23,50,41,3,0,56.09,6,caught,1, Australia,Sydney,Test ,03-01-2012,2
+92,9,35,24,2,0,37.5,6,lbw,3, Australia,Sydney,Test ,03-01-2012,2
+93,44,107,81,6,0,54.32,6,caught,1, Australia,Perth,Test ,13-01-2012,2
+94,75,191,136,9,0,55.14,6,caught,3, Australia,Perth,Test ,13-01-2012,2
+95,116,237,213,11,1,54.46,6,lbw,2, Australia,Adelaide,Test ,24-01-2012,2
+96,22,96,62,2,0,35.48,6,run out,4, Australia,Adelaide,Test ,24-01-2012,2
+97,22,30,21,0,1,104.76,3,caught,2, Australia,Sydney,T20I ,01-02-2012,2
+98,31,29,24,3,0,129.16,3,caught,2, Australia,Melbourne,T20I ,03-02-2012,2
+99,31,30,34,3,0,91.17,3,caught,2, Australia,Melbourne,ODI ,05-02-2012,2
+100,77,156,94,8,1,81.91,3,run out,2, Sri Lanka,Perth,ODI ,08-02-2012,2
+101,18,41,28,1,0,64.28,3,caught,2, Australia,Adelaide,ODI ,12-02-2012,2
+102,15,32,25,1,0,60,3,lbw,2, Sri Lanka,Adelaide,ODI ,14-02-2012,2
+103,12,44,25,0,0,48,3,caught,2, Australia,Brisbane,ODI ,19-02-2012,2
+104,66,116,83,2,0,79.51,4,caught,2, Sri Lanka,Brisbane,ODI ,21-02-2012,2
+105,21,36,27,2,0,77.77,4,caught,2, Australia,Sydney,ODI ,26-02-2012,2
+106,133,133,86,16,2,154.65,4,not out,2, Sri Lanka,Hobart,ODI ,28-02-2012,2
+107,108,148,120,7,0,90,3,caught,1, Sri Lanka,Mirpur,ODI ,13-03-2012,2
+108,66,126,82,5,0,80.48,3,bowled,1, Bangladesh,Mirpur,ODI ,16-03-2012,2
+109,183,211,148,22,1,123.64,3,caught,2, Pakistan,Mirpur,ODI ,18-03-2012,2
+111,106,158,113,9,0,93.8,3,caught,1, Sri Lanka,Hambantota,ODI ,21-07-2012,2
+112,1,6,5,0,0,20,3,caught,1, Sri Lanka,Hambantota,ODI ,24-07-2012,2
+113,38,80,65,2,0,58.46,3,caught,2, Sri Lanka,Colombo (RPS),ODI ,28-07-2012,2
+114,128,187,119,12,1,107.56,3,not out,2, Sri Lanka,Colombo (RPS),ODI ,31-07-2012,2
+115,23,42,35,2,0,65.71,3,lbw,1, Sri Lanka,Pallekele,ODI ,04-08-2012,2
+116,68,65,48,11,1,141.66,3,caught,1, Sri Lanka,Pallekele,T20I ,07-08-2012,2
+117,58,143,107,8,0,54.2,5,caught,1, New Zealand,Hyderabad,Test ,23-08-2012,2
+118,103,284,193,14,1,53.36,5,lbw,2, New Zealand,Bengaluru,Test ,31-08-2012,2
+119,51,130,82,9,0,62.19,5,not out,4, New Zealand,Bengaluru,Test ,31-08-2012,2
+120,70,67,41,10,1,170.73,2,caught,2, New Zealand,Chennai,T20I ,11-09-2012,2
+121,50,60,39,4,2,128.2,3,caught,1, Afghanistan,Colombo (RPS),T20I ,19-09-2012,2
+122,40,33,32,6,0,125,3,caught,1, England,Colombo (RPS),T20I ,23-09-2012,2
+123,15,18,13,2,0,115.38,3,caught,1, Australia,Colombo (RPS),T20I ,28-09-2012,2
+124,78,61,61,8,2,127.86,3,not out,2, Pakistan,Colombo (RPS),T20I ,30-09-2012,2
+125,2,5,6,0,0,33.33,3,caught,1, South Africa,Colombo (RPS),T20I ,02-10-2012,2
+126,19,70,67,3,0,28.35,5,bowled,1, England,Ahmedabad,Test ,15-11-2012,2
+127,14,17,21,3,0,66.66,3,not out,4, England,Ahmedabad,Test ,15-11-2012,2
+128,19,65,55,3,0,34.54,5,caught,1, England,Wankhede,Test ,23-11-2012,2
+129,7,16,13,1,0,53.84,5,caught,3, England,Wankhede,Test ,23-11-2012,2
+130,6,31,24,1,0,25,5,caught,1, England,Eden Gardens,Test ,05-12-2012,2
+131,20,86,60,3,0,33.33,5,caught,3, England,Eden Gardens,Test ,05-12-2012,2
+132,103,356,295,11,0,34.91,5,lbw,2, England,Nagpur,Test ,13-12-2012,2
+133,21,35,17,2,0,123.52,3,bowled,2, England,Pune,T20I ,20-12-2012,2
+134,38,25,20,7,0,190,3,lbw,1, England,Wankhede,T20I ,22-12-2012,2
+135,9,15,11,1,0,81.81,3,caught,1, Pakistan,Bengaluru,T20I ,25-12-2012,2
+136,27,31,22,3,0,122.72,3,run out,1, Pakistan,Ahmedabad,T20I ,28-12-2012,2
+137,0,9,5,0,0,0,3,bowled,1, Pakistan,Chennai,ODI ,30-12-2012,2
+138,6,12,9,1,0,66.66,3,caught,2, Pakistan,Eden Gardens,ODI ,03-01-2013,2
+139,7,25,17,1,0,41.17,3,caught,1, Pakistan,Delhi,ODI ,06-01-2013,2
+140,15,45,22,1,0,68.18,3,caught,2, England,Rajkot,ODI ,11-01-2013,2
+141,37,86,54,1,1,68.51,3,caught,1, England,Kochi,ODI ,15-01-2013,2
+142,77,110,79,9,2,97.46,3,not out,2, England,Ranchi,ODI ,19-01-2013,2
+143,26,44,33,3,0,78.78,3,caught,2, England,Mohali,ODI ,23-01-2013,2
+144,0,1,1,0,0,0,3,caught,1, England,Dharamsala,ODI ,27-01-2013,2
+145,107,266,206,15,1,51.94,5,caught,2, Australia,Chennai,Test ,22-02-2013,2
+147,34,119,92,3,0,36.95,5,caught,2, Australia,Hyderabad,Test ,02-03-2013,2
+148,67,157,129,7,1,51.93,5,not out,2, Australia,Mohali,Test ,14-03-2013,2
+149,34,80,61,6,0,55.73,3,caught,4, Australia,Mohali,Test ,14-03-2013,2
+150,1,11,8,0,0,12.5,3,lbw,2, Australia,Delhi,Test ,22-03-2013,2
+151,41,76,60,4,0,68.33,3,lbw,4, Australia,Delhi,Test ,22-03-2013,2
+152,31,46,41,2,0,75.6,3,caught,1, South Africa,Cardiff,ODI ,06-06-2013,2
+153,22,18,18,4,0,122.22,3,bowled,2, West Indies,The Oval,ODI ,11-06-2013,2
+154,22,36,27,3,0,81.48,3,not out,2, Pakistan,Birmingham,ODI ,15-06-2013,2
+155,58,80,64,4,1,90.62,3,not out,2, Sri Lanka,Cardiff,ODI ,20-06-2013,2
+156,43,66,34,4,1,126.47,3,caught,1, England,Birmingham,ODI ,23-06-2013,2
+157,11,19,21,0,1,52.38,3,caught,1, West Indies,Kingston,ODI ,30-06-2013,2
+158,2,6,5,0,0,40,4,caught,2, Sri Lanka,Kingston,ODI ,02-07-2013,2
+159,102,120,83,13,2,122.89,3,caught,1, West Indies,Port of Spain,ODI ,05-07-2013,2
+160,31,62,52,4,0,59.61,3,lbw,1, Sri Lanka,Port of Spain,ODI ,09-07-2013,2
+161,2,8,5,0,0,40,3,caught,2, Sri Lanka,Port of Spain,ODI ,11-07-2013,2
+162,115,133,108,13,1,106.48,3,caught,2, Zimbabwe,Harare,ODI ,24-07-2013,2
+163,14,35,18,2,0,77.77,3,caught,1, Zimbabwe,Harare,ODI ,26-07-2013,2
+164,68,128,88,5,1,77.27,3,not out,2, Zimbabwe,Harare,ODI ,28-07-2013,2
+167,29,26,22,2,1,131.81,4,caught,2, Australia,Rajkot,T20I ,10-10-2013,2
+168,61,121,85,6,0,71.76,3,lbw,2, Australia,Pune,ODI ,13-10-2013,2
+169,100,82,52,8,7,192.3,3,not out,2, Australia,Jaipur,ODI ,16-10-2013,2
+170,68,121,73,9,0,93.15,3,caught,1, Australia,Mohali,ODI ,19-10-2013,2
+172,115,104,66,18,1,174.24,3,not out,2, Australia,Nagpur,ODI ,30-10-2013,2
+173,0,4,3,0,0,0,3,run out,1, Australia,Bengaluru,ODI ,02-11-2013,2
+174,3,13,5,0,0,60,5,caught,2, West Indies,Eden Gardens,Test ,06-11-2013,2
+175,57,80,78,5,0,73.07,5,caught,2, West Indies,Wankhede,Test ,14-11-2013,2
+176,86,120,84,9,2,102.38,3,caught,2, West Indies,Kochi,ODI ,21-11-2013,2
+177,99,159,100,9,0,99,3,caught,1, West Indies,Visakhapatnam,ODI ,24-11-2013,2
+178,19,19,18,3,0,105.55,3,caught,2, West Indies,Kanpur,ODI ,27-11-2013,2
+179,31,41,35,5,0,88.57,3,caught,2, South Africa,Johannesburg,ODI ,05-12-2013,2
+180,0,7,5,0,0,0,3,caught,2, South Africa,Durban,ODI ,08-12-2013,2
+182,119,257,181,18,0,65.74,4,caught,1, South Africa,Johannesburg,Test ,18-12-2013,2
+183,96,254,193,9,0,49.74,4,caught,3, South Africa,Johannesburg,Test ,18-12-2013,2
+184,46,114,87,5,0,52.87,4,caught,1, South Africa,Durban,Test ,26-12-2013,2
+185,11,26,27,1,0,40.74,4,caught,3, South Africa,Durban,Test ,26-12-2013,2
+186,123,179,111,11,2,110.81,3,caught,2, New Zealand,Napier,ODI ,19-01-2014,2
+187,78,88,65,7,2,120,3,caught,2, New Zealand,Hamilton,ODI ,22-01-2014,2
+188,6,27,20,1,0,30,3,caught,2, New Zealand,Auckland,ODI ,25-01-2014,2
+189,2,14,10,0,0,20,2,caught,1, New Zealand,Hamilton,ODI ,28-01-2014,2
+190,82,129,78,7,3,105.12,3,caught,2, New Zealand,Wellington,ODI ,31-01-2014,2
+191,4,17,13,1,0,30.76,4,caught,2, New Zealand,Auckland,Test ,06-02-2014,2
+192,67,131,102,12,0,65.68,4,caught,4, New Zealand,Auckland,Test ,06-02-2014,2
+193,38,131,93,4,0,40.86,5,caught,2, New Zealand,Wellington,Test ,14-02-2014,2
+194,105,195,135,15,1,77.77,4,not out,4, New Zealand,Wellington,Test ,14-02-2014,2
+195,136,157,122,16,2,111.47,3,bowled,2, Bangladesh,Fatullah,ODI ,26-02-2014,2
+196,48,66,51,4,1,94.11,3,bowled,1, Sri Lanka,Fatullah,ODI ,28-02-2014,2
+197,5,29,11,0,0,45.45,3,caught,1, Pakistan,Mirpur,ODI ,02-03-2014,2
+199,36,45,32,4,1,112.5,3,not out,2, Pakistan,Mirpur,T20I ,21-03-2014,2
+200,54,51,41,5,1,131.7,3,bowled,2, West Indies,Mirpur,T20I ,23-03-2014,2
+201,57,66,50,3,1,114,3,not out,2, Bangladesh,Mirpur,T20I ,28-03-2014,2
+202,23,23,22,2,1,104.54,3,caught,1, Australia,Mirpur,T20I ,30-03-2014,2
+203,72,67,44,5,2,163.63,3,not out,2, South Africa,Mirpur,T20I ,04-04-2014,2
+204,77,75,58,5,4,132.75,3,run out,1, Sri Lanka,Mirpur,T20I ,06-04-2014,2
+205,1,6,8,0,0,12.5,4,caught,1, England,Nottingham,Test ,09-07-2014,2
+206,8,39,29,1,0,27.58,4,lbw,3, England,Nottingham,Test ,09-07-2014,2
+207,25,39,34,4,0,73.52,4,caught,1, England,Lord's,Test ,17-07-2014,2
+208,0,1,1,0,0,0,4,bowled,3, England,Lord's,Test ,17-07-2014,2
+209,39,119,75,3,0,52,4,caught,2, England,Southampton,Test ,27-07-2014,2
+210,28,77,56,3,0,50,4,caught,4, England,Southampton,Test ,27-07-2014,2
+211,0,3,2,0,0,0,4,caught,1, England,Manchester,Test ,07-08-2014,2
+212,7,15,11,1,0,63.63,4,caught,3, England,Manchester,Test ,07-08-2014,2
+213,6,34,18,1,0,33.33,4,lbw,1, England,The Oval,Test ,15-08-2014,2
+214,20,80,54,2,0,37.03,4,caught,3, England,The Oval,Test ,15-08-2014,2
+215,0,1,3,0,0,0,3,caught,1, England,Cardiff,ODI ,27-08-2014,2
+216,40,67,50,2,1,80,3,caught,2, England,Nottingham,ODI ,30-08-2014,2
+217,1,9,3,0,0,33.33,3,not out,2, England,Birmingham,ODI ,02-09-2014,2
+218,13,25,21,2,0,61.9,3,caught,2, England,Leeds,ODI ,05-09-2014,2
+219,66,54,41,9,1,160.97,3,caught,2, England,Birmingham,T20I ,07-09-2014,2
+220,2,7,5,0,0,40,3,caught,2, West Indies,Kochi,ODI ,08-10-2014,2
+221,62,124,78,5,0,79.48,4,caught,1, West Indies,Delhi,ODI ,11-10-2014,2
+222,127,164,114,13,3,111.4,3,run out,1, West Indies,Dharamsala,ODI ,17-10-2014,2
+223,22,34,21,2,0,104.76,4,caught,1, Sri Lanka,Cuttack,ODI ,02-11-2014,2
+224,49,-,44,2,2,111.36,4,caught,2, Sri Lanka,Ahmedabad,ODI ,06-11-2014,2
+225,53,-,61,4,1,86.88,4,caught,2, Sri Lanka,Hyderabad,ODI ,09-11-2014,2
+226,66,109,64,6,0,103.12,4,run out,1, Sri Lanka,Eden Gardens,ODI ,13-11-2014,2
+227,139,192,126,12,3,110.31,4,not out,2, Sri Lanka,Ranchi,ODI ,16-11-2014,2
+228,115,267,184,12,0,62.5,4,caught,2, Australia,Adelaide,Test ,09-12-2014,2
+229,141,279,175,16,1,80.57,4,caught,4, Australia,Adelaide,Test ,09-12-2014,2
+230,19,50,27,1,0,70.37,4,caught,1, Australia,Brisbane,Test ,17-12-2014,2
+231,1,14,11,0,0,9.09,4,bowled,3, Australia,Brisbane,Test ,17-12-2014,2
+232,169,380,272,18,0,62.13,4,caught,2, Australia,Melbourne,Test ,26-12-2014,2
+233,54,134,99,7,0,54.54,4,caught,4, Australia,Melbourne,Test ,26-12-2014,2
+234,147,315,230,20,0,63.91,4,caught,2, Australia,Sydney,Test ,06-01-2015,2
+235,46,123,95,3,0,48.42,4,caught,4, Australia,Sydney,Test ,06-01-2015,2
+236,9,24,16,0,0,56.25,4,caught,1, Australia,Melbourne,ODI ,18-01-2015,2
+237,4,13,8,0,0,50,4,caught,1, England,Brisbane,ODI ,20-01-2015,2
+238,3,8,9,0,0,33.33,4,not out,1, Australia,Sydney,ODI ,26-01-2015,2
+239,8,26,19,0,0,42.1,3,caught,1, England,Perth,ODI ,30-01-2015,2
+240,107,168,126,8,0,84.92,3,caught,1, Pakistan,Adelaide,ODI ,15-02-2015,2
+241,46,106,60,3,0,76.66,3,caught,1, South Africa,Melbourne,ODI ,22-02-2015,2
+242,33,49,41,5,0,80.48,3,not out,2, U.A.E.,Perth,ODI ,28-02-2015,2
+243,33,51,36,5,0,91.66,3,caught,2, West Indies,Perth,ODI ,06-03-2015,2
+244,44,64,42,4,1,104.76,3,not out,2, Ireland,Hamilton,ODI ,10-03-2015,2
+245,38,71,48,4,0,79.16,3,bowled,2, Zimbabwe,Auckland,ODI ,14-03-2015,2
+246,3,6,8,0,0,37.5,3,caught,1, Bangladesh,Melbourne,ODI ,19-03-2015,2
+247,1,11,13,0,0,7.69,3,caught,2, Australia,Sydney,ODI ,26-03-2015,2
+248,14,17,22,2,0,63.63,4,bowled,1, Bangladesh,Fatullah,Test ,10-06-2015,2
+249,1,9,4,0,0,25,3,caught,2, Bangladesh,Mirpur,ODI ,18-06-2015,2
+250,23,57,27,3,1,85.18,3,lbw,1, Bangladesh,Mirpur,ODI ,21-06-2015,2
+251,25,55,35,1,0,71.42,3,bowled,1, Bangladesh,Mirpur,ODI ,24-06-2015,2
+252,103,266,191,11,0,53.92,4,lbw,2, Sri Lanka,Galle,Test ,12-08-2015,2
+253,3,14,10,0,0,30,5,caught,4, Sri Lanka,Galle,Test ,12-08-2015,2
+254,78,178,107,8,1,72.89,4,caught,1, Sri Lanka,Colombo (PSS),Test ,20-08-2015,2
+255,10,33,19,0,0,52.63,4,lbw,3, Sri Lanka,Colombo (PSS),Test ,20-08-2015,2
+256,18,96,60,3,0,30,4,caught,1, Sri Lanka,Colombo (SSC),Test ,28-08-2015,2
+257,21,87,63,2,0,33.33,4,caught,3, Sri Lanka,Colombo (SSC),Test ,28-08-2015,2
+258,43,58,27,1,3,159.25,3,caught,1, South Africa,Dharamsala,T20I ,02-10-2015,2
+259,1,3,1,0,0,100,3,run out,1, South Africa,Cuttack,T20I ,05-10-2015,2
+260,11,29,18,0,0,61.11,4,caught,2, South Africa,Kanpur,ODI ,11-10-2015,2
+261,12,24,18,0,0,66.66,4,run out,1, South Africa,Indore,ODI ,14-10-2015,2
+262,77,155,99,5,0,77.77,3,caught,2, South Africa,Rajkot,ODI ,18-10-2015,2
+263,138,202,140,6,5,98.57,3,caught,1, South Africa,Chennai,ODI ,22-10-2015,2
+264,7,11,6,0,1,116.66,3,caught,2, South Africa,Wankhede,ODI ,25-10-2015,2
+265,1,5,4,0,0,25,4,caught,1, South Africa,Mohali,Test ,05-11-2015,2
+266,29,92,71,4,0,40.84,4,caught,3, South Africa,Mohali,Test ,05-11-2015,2
+268,22,73,55,2,0,40,4,caught,1, South Africa,Nagpur,Test ,25-11-2015,2
+269,16,49,30,2,0,53.33,4,caught,3, South Africa,Nagpur,Test ,25-11-2015,2
+270,44,74,62,7,0,70.96,4,caught,1, South Africa,Delhi,Test ,03-12-2015,2
+271,88,259,165,10,0,53.33,5,lbw,3, South Africa,Delhi,Test ,03-12-2015,2
+272,91,148,97,9,1,93.81,3,caught,1, Australia,Perth,ODI ,12-01-2016,2
+273,59,84,67,4,0,88.05,3,run out,1, Australia,Brisbane,ODI ,15-01-2016,2
+274,117,174,117,7,2,100,3,caught,1, Australia,Melbourne,ODI ,17-01-2016,2
+275,106,131,92,11,1,115.21,3,caught,2, Australia,Canberra,ODI ,20-01-2016,2
+276,8,11,11,1,0,72.72,3,caught,2, Australia,Sydney,ODI ,23-01-2016,2
+277,90,71,55,9,2,163.63,3,not out,1, Australia,Adelaide,T20I ,26-01-2016,2
+278,59,44,33,7,1,178.78,3,not out,1, Australia,Melbourne,T20I ,29-01-2016,2
+279,50,49,36,2,1,138.88,3,bowled,2, Australia,Sydney,T20I ,31-01-2016,2
+280,7,13,12,1,0,58.33,3,caught,1, Bangladesh,Mirpur,T20I ,24-02-2016,2
+281,49,71,51,7,0,96.07,3,lbw,2, Pakistan,Mirpur,T20I ,27-02-2016,2
+282,56,85,47,7,0,119.14,3,not out,2, Sri Lanka,Mirpur,T20I ,01-03-2016,2
+284,41,62,28,5,0,146.42,3,not out,2, Bangladesh,Mirpur,T20I ,06-03-2016,2
+285,23,-,27,2,0,85.18,3,caught,2, New Zealand,Nagpur,T20I ,15-03-2016,2
+286,55,66,37,7,1,148.64,3,not out,2, Pakistan,Eden Gardens,T20I ,19-03-2016,2
+287,24,37,24,0,1,100,3,bowled,1, Bangladesh,Bengaluru,T20I ,23-03-2016,2
+288,82,78,51,9,2,160.78,3,not out,2, Australia,Mohali,T20I ,27-03-2016,2
+289,89,63,47,11,1,189.36,3,not out,1, West Indies,Wankhede,T20I ,31-03-2016,2
+290,200,375,283,24,0,70.67,4,bowled,1, West Indies,North Sound,Test ,21-07-2016,2
+291,44,144,90,4,1,48.88,4,caught,2, West Indies,Kingston,Test ,30-07-2016,2
+292,3,17,8,0,0,37.5,3,caught,1, West Indies,Gros Islet,Test ,09-08-2016,2
+293,4,21,17,0,0,23.52,3,lbw,3, West Indies,Gros Islet,Test ,09-08-2016,2
+295,16,8,9,3,0,177.77,3,caught,2, West Indies,Lauderhill,T20I ,27-08-2016,2
+297,9,12,10,2,0,90,4,caught,1, New Zealand,Kanpur,Test ,22-09-2016,2
+298,18,45,40,3,0,45,4,caught,3, New Zealand,Kanpur,Test ,22-09-2016,2
+299,9,42,28,1,0,32.14,4,caught,1, New Zealand,Eden Gardens,Test ,30-09-2016,2
+300,45,82,65,7,0,69.23,4,lbw,3, New Zealand,Eden Gardens,Test ,30-09-2016,2
+301,211,536,366,20,0,57.65,4,lbw,1, New Zealand,Indore,Test ,08-10-2016,2
+302,17,36,28,1,0,60.71,4,lbw,3, New Zealand,Indore,Test ,08-10-2016,2
+303,85,109,81,9,1,104.93,3,not out,2, New Zealand,Dharamsala,ODI ,16-10-2016,2
+304,9,18,13,1,0,69.23,3,caught,2, New Zealand,Delhi,ODI ,20-10-2016,2
+305,154,202,134,16,1,114.92,3,not out,2, New Zealand,Mohali,ODI ,23-10-2016,2
+306,45,64,51,2,1,88.23,3,caught,2, New Zealand,Ranchi,ODI ,26-10-2016,2
+307,65,152,76,2,1,85.52,3,caught,1, New Zealand,Visakhapatnam,ODI ,29-10-2016,2
+308,40,135,95,5,0,42.1,4,hit wicket,2, England,Rajkot,Test ,09-11-2016,2
+309,49,129,98,6,0,50,4,not out,4, England,Rajkot,Test ,09-11-2016,2
+310,167,401,267,18,0,62.54,4,caught,1, England,Visakhapatnam,Test ,17-11-2016,2
+311,81,172,109,8,0,74.31,4,caught,3, England,Visakhapatnam,Test ,17-11-2016,2
+312,62,161,127,9,0,48.81,4,caught,2, England,Mohali,Test ,26-11-2016,2
+313,6,11,11,0,0,54.54,4,not out,4, England,Mohali,Test ,26-11-2016,2
+314,235,515,340,25,1,69.11,4,caught,2, England,Wankhede,Test ,08-12-2016,2
+315,15,44,29,1,0,51.72,4,caught,2, England,Chennai,Test ,16-12-2016,2
+316,122,147,105,8,5,116.19,3,caught,2, England,Pune,ODI ,15-01-2017,2
+317,8,6,5,2,0,160,3,caught,1, England,Cuttack,ODI ,19-01-2017,2
+318,55,81,63,8,0,87.3,3,caught,2, England,Eden Gardens,ODI ,22-01-2017,2
+319,29,34,26,4,0,111.53,1,caught,1, England,Kanpur,T20I ,26-01-2017,2
+320,21,17,15,2,1,140,1,caught,1, England,Nagpur,T20I ,29-01-2017,2
+321,2,6,4,0,0,50,1,run out,1, England,Bengaluru,T20I ,01-02-2017,2
+322,204,295,246,24,0,82.92,4,lbw,1, Bangladesh,Hyderabad,Test ,09-02-2017,2
+323,38,51,40,2,1,95,4,caught,3, Bangladesh,Hyderabad,Test ,09-02-2017,2
+324,0,2,2,0,0,0,4,caught,2, Australia,Pune,Test ,23-02-2017,2
+325,13,33,37,1,0,35.13,4,bowled,4, Australia,Pune,Test ,23-02-2017,2
+326,12,25,17,2,0,70.58,4,lbw,1, Australia,Bengaluru,Test ,04-03-2017,2
+327,15,34,25,1,0,60,4,lbw,3, Australia,Bengaluru,Test ,04-03-2017,2
+328,6,38,23,0,0,26.08,4,caught,2, Australia,Ranchi,Test ,16-03-2017,2
+329,81,108,68,6,3,119.11,3,not out,1, Pakistan,Birmingham,ODI ,04-06-2017,2
+330,0,5,5,0,0,0,3,caught,1, Sri Lanka,The Oval,ODI ,08-06-2017,2
+331,76,136,101,7,1,75.24,3,not out,2, South Africa,The Oval,ODI ,11-06-2017,2
+332,96,96,78,13,0,123.07,3,not out,2, Bangladesh,Birmingham,ODI ,15-06-2017,2
+333,5,11,9,0,0,55.55,3,caught,2, Pakistan,The Oval,ODI ,18-06-2017,2
+334,32,-,47,1,0,68.08,3,not out,1, West Indies,Port of Spain,ODI ,23-06-2017,2
+335,87,-,66,4,4,131.81,3,caught,1, West Indies,Port of Spain,ODI ,25-06-2017,2
+336,11,-,22,2,0,50,3,caught,1, West Indies,North Sound,ODI ,30-06-2017,2
+337,3,-,12,0,0,25,3,caught,2, West Indies,North Sound,ODI ,02-07-2017,2
+338,111,-,115,12,2,96.52,3,not out,2, West Indies,Kingston,ODI ,06-07-2017,2
+339,39,-,22,7,1,177.27,1,caught,1, West Indies,Kingston,T20I ,09-07-2017,2
+340,3,15,8,0,0,37.5,4,caught,1, Sri Lanka,Galle,Test ,26-07-2017,2
+341,103,158,136,5,1,75.73,4,not out,3, Sri Lanka,Galle,Test ,26-07-2017,2
+342,13,31,29,2,0,44.82,4,caught,1, Sri Lanka,Colombo (SSC),Test ,03-08-2017,2
+343,42,119,84,3,0,50,4,caught,1, Sri Lanka,Pallekele,Test ,12-08-2017,2
+344,82,-,70,10,1,117.14,3,not out,2, Sri Lanka,Dambulla,ODI ,20-08-2017,2
+345,4,-,2,1,0,200,5,bowled,2, Sri Lanka,Pallekele,ODI ,24-08-2017,2
+346,3,-,11,0,0,27.27,3,caught,2, Sri Lanka,Pallekele,ODI ,27-08-2017,2
+347,131,-,96,17,2,136.45,3,caught,1, Sri Lanka,Colombo (RPS),ODI ,31-08-2017,2
+348,110,-,116,9,0,94.82,3,not out,2, Sri Lanka,Colombo (RPS),ODI ,03-09-2017,2
+349,82,-,54,7,1,151.85,3,caught,2, Sri Lanka,Colombo (RPS),T20I ,06-09-2017,2
+350,0,7,4,0,0,0,3,caught,1, Australia,Chennai,ODI ,17-09-2017,2
+351,92,148,107,8,0,85.98,3,bowled,1, Australia,Eden Gardens,ODI ,21-09-2017,2
+352,28,58,35,2,0,80,3,caught,2, Australia,Indore,ODI ,24-09-2017,2
+353,21,23,21,3,0,100,3,bowled,2, Australia,Bengaluru,ODI ,28-09-2017,2
+354,39,73,55,2,0,70.9,3,caught,2, Australia,Nagpur,ODI ,01-10-2017,2
+355,22,19,14,3,0,157.14,3,not out,2, Australia,Ranchi,T20I ,07-10-2017,2
+356,0,2,2,0,0,0,3,caught,1, Australia,Guwahati,T20I ,10-10-2017,2
+357,121,203,125,9,2,96.8,3,caught,1, New Zealand,Wankhede,ODI ,22-10-2017,2
+358,29,40,29,3,1,100,3,caught,2, New Zealand,Pune,ODI ,25-10-2017,2
+359,113,166,106,9,1,106.6,3,caught,1, New Zealand,Kanpur,ODI ,29-10-2017,2
+360,26,19,11,0,3,236.36,4,not out,1, New Zealand,Delhi,T20I ,01-11-2017,2
+361,65,59,42,8,1,154.76,4,caught,2, New Zealand,Rajkot,T20I ,04-11-2017,2
+362,13,6,6,1,1,216.66,3,caught,1, New Zealand,Thiruvananthapuram,T20I ,07-11-2017,2
+363,0,18,11,0,0,0,4,lbw,1, Sri Lanka,Eden Gardens,Test ,16-11-2017,2
+364,104,208,119,12,2,87.39,4,not out,3, Sri Lanka,Eden Gardens,Test ,16-11-2017,2
+365,213,386,267,17,2,79.77,4,caught,2, Sri Lanka,Nagpur,Test ,24-11-2017,2
+366,243,447,287,25,0,84.66,4,lbw,1, Sri Lanka,Delhi,Test ,02-12-2017,2
+367,50,89,58,3,0,86.2,5,caught,3, Sri Lanka,Delhi,Test ,02-12-2017,2
+368,5,14,13,0,0,38.46,4,caught,2, South Africa,Cape Town,Test ,05-01-2018,2
+369,28,62,40,4,0,70,4,lbw,4, South Africa,Cape Town,Test ,05-01-2018,2
+370,153,379,217,15,0,70.5,4,caught,2, South Africa,Centurion,Test ,13-01-2018,2
+371,5,22,20,1,0,25,4,lbw,4, South Africa,Centurion,Test ,13-01-2018,2
+372,54,146,106,9,0,50.94,4,caught,1, South Africa,Johannesburg,Test ,24-01-2018,2
+373,41,131,79,6,0,51.89,5,bowled,3, South Africa,Johannesburg,Test ,24-01-2018,2
+374,112,164,119,10,0,94.11,3,caught,2, South Africa,Durban,ODI ,01-02-2018,2
+375,46,64,50,4,1,92,3,not out,2, South Africa,Centurion,ODI ,04-02-2018,2
+376,160,220,159,12,2,100.62,3,not out,1, South Africa,Cape Town,ODI ,07-02-2018,2
+377,75,119,83,7,1,90.36,3,caught,1, South Africa,Johannesburg,ODI ,10-02-2018,2
+378,36,76,54,2,0,66.66,3,run out,1, South Africa,Gqeberha,ODI ,13-02-2018,2
+379,129,123,96,19,2,134.37,3,not out,2, South Africa,Centurion,ODI ,16-02-2018,2
+380,26,26,20,2,1,130,4,lbw,1, South Africa,Johannesburg,T20I ,18-02-2018,2
+381,1,6,5,0,0,20,4,caught,1, South Africa,Centurion,T20I ,21-02-2018,2
+382,0,1,2,0,0,0,6,caught,1, Ireland,Dublin (Malahide),T20I ,27-06-2018,2
+383,9,-,8,1,0,112.5,2,caught,1, Ireland,Dublin (Malahide),T20I ,29-06-2018,2
+384,20,-,22,0,1,90.9,4,not out,2, England,Manchester,T20I ,03-07-2018,2
+385,47,-,38,1,2,123.68,4,caught,1, England,Cardiff,T20I ,06-07-2018,2
+386,43,-,29,2,2,148.27,4,caught,2, England,Bristol,T20I ,08-07-2018,2
+387,75,-,82,7,0,91.46,3,stumped,2, England,Nottingham,ODI ,12-07-2018,2
+388,45,-,56,2,0,80.35,3,lbw,2, England,Lord's,ODI ,14-07-2018,2
+389,71,98,72,8,0,98.61,3,bowled,1, England,Leeds,ODI ,17-07-2018,2
+390,149,277,225,22,1,66.22,4,caught,2, England,Birmingham,Test ,01-08-2018,2
+391,51,185,93,4,0,54.83,4,lbw,4, England,Birmingham,Test ,01-08-2018,2
+392,23,73,57,2,0,40.35,4,caught,1, England,Lord's,Test ,09-08-2018,2
+393,17,57,29,2,0,58.62,5,caught,3, England,Lord's,Test ,09-08-2018,2
+394,97,243,152,11,0,63.81,4,caught,1, England,Nottingham,Test ,18-08-2018,2
+395,103,292,197,10,0,52.28,4,lbw,3, England,Nottingham,Test ,18-08-2018,2
+396,46,100,71,6,0,64.78,4,caught,2, England,Southampton,Test ,30-08-2018,2
+397,58,170,130,4,0,44.61,4,caught,4, England,Southampton,Test ,30-08-2018,2
+398,49,112,70,6,0,70,4,caught,2, England,The Oval,Test ,07-09-2018,2
+399,0,3,1,0,0,0,4,caught,4, England,The Oval,Test ,07-09-2018,2
+400,139,341,230,10,0,60.43,4,caught,1, West Indies,Rajkot,Test ,04-10-2018,2
+401,45,86,78,5,0,57.69,4,lbw,2, West Indies,Hyderabad,Test ,12-10-2018,2
+403,140,-,107,21,2,130.84,3,stumped,2, West Indies,Guwahati,ODI ,21-10-2018,2
+404,157,217,129,13,4,121.7,3,not out,1, West Indies,Visakhapatnam,ODI ,24-10-2018,2
+405,107,-,119,10,1,89.91,3,bowled,2, West Indies,Pune,ODI ,27-10-2018,2
+406,16,-,17,2,0,94.11,3,caught,1, West Indies,Brabourne,ODI ,29-10-2018,2
+407,33,57,29,6,0,113.79,3,not out,2, West Indies,Thiruvananthapuram,ODI ,01-11-2018,2
+408,4,-,8,0,0,50,4,caught,2, Australia,Brisbane,T20I ,21-11-2018,2
+410,61,-,41,4,2,148.78,3,not out,2, Australia,Sydney,T20I ,25-11-2018,2
+411,3,17,16,0,0,18.75,4,caught,1, Australia,Adelaide,Test ,06-12-2018,2
+412,34,132,104,3,0,32.69,4,caught,3, Australia,Adelaide,Test ,06-12-2018,2
+413,123,373,257,13,1,47.85,4,caught,2, Australia,Perth,Test ,14-12-2018,2
+414,17,64,40,2,0,42.5,4,caught,4, Australia,Perth,Test ,14-12-2018,2
+415,82,305,204,9,0,40.19,4,caught,1, Australia,Melbourne,Test ,26-12-2018,2
+416,0,6,4,0,0,0,4,caught,3, Australia,Melbourne,Test ,26-12-2018,2
+417,23,-,59,4,0,38.98,4,caught,1, Australia,Sydney,Test ,03-01-2019,2
+418,3,10,8,0,0,37.5,3,caught,2, Australia,Sydney,ODI ,12-01-2019,2
+419,104,150,112,5,2,92.85,3,caught,2, Australia,Adelaide,ODI ,15-01-2019,2
+420,46,-,62,3,0,74.19,3,caught,2, Australia,Melbourne,ODI ,18-01-2019,2
+421,45,59,59,3,0,76.27,3,caught,2, New Zealand,Napier,ODI ,23-01-2019,2
+422,43,59,45,5,0,95.55,3,caught,1, New Zealand,Mount Maunganui,ODI ,26-01-2019,2
+423,60,94,74,6,1,81.08,3,caught,2, New Zealand,Mount Maunganui,ODI ,28-01-2019,2
+424,24,25,17,3,0,141.17,3,caught,1, Australia,Visakhapatnam,T20I ,24-02-2019,2
+425,72,63,38,2,6,189.47,3,not out,1, Australia,Bengaluru,T20I ,27-02-2019,2
+426,44,-,45,6,1,97.77,3,lbw,2, Australia,Hyderabad,ODI ,02-03-2019,2
+427,116,-,120,10,0,96.66,3,caught,1, Australia,Nagpur,ODI ,05-03-2019,2
+428,123,-,95,16,1,129.47,3,bowled,2, Australia,Ranchi,ODI ,08-03-2019,2
+429,7,-,6,1,0,116.66,4,caught,1, Australia,Mohali,ODI ,10-03-2019,2
+430,20,-,22,2,0,90.9,3,caught,2, Australia,Delhi,ODI ,13-03-2019,2
+431,18,44,34,1,0,52.94,3,caught,2, South Africa,Southampton,ODI ,05-06-2019,2
+432,82,128,77,4,2,106.49,3,caught,1, Australia,The Oval,ODI ,09-06-2019,2
+433,77,105,65,7,0,118.46,3,caught,1, Pakistan,Manchester,ODI ,16-06-2019,2
+434,67,105,63,5,0,106.34,3,caught,1, Afghanistan,Southampton,ODI ,22-06-2019,2
+435,72,146,82,8,0,87.8,3,caught,1, West Indies,Manchester,ODI ,27-06-2019,2
+436,66,103,76,7,0,86.84,3,caught,2, England,Birmingham,ODI ,30-06-2019,2
+437,26,45,27,3,0,96.29,3,caught,1, Bangladesh,Birmingham,ODI ,02-07-2019,2
+438,34,61,41,3,0,82.92,3,not out,2, Sri Lanka,Leeds,ODI ,06-07-2019,2
+439,1,8,6,0,0,16.66,3,lbw,2, New Zealand,Manchester,ODI ,09-07-2019,2
+440,19,-,29,1,0,65.51,3,caught,2, West Indies,Lauderhill,T20I ,03-08-2019,2
+441,28,-,23,1,1,121.73,3,bowled,1, West Indies,Lauderhill,T20I ,04-08-2019,2
+442,59,-,45,6,0,131.11,3,caught,2, West Indies,Providence,T20I ,06-08-2019,2
+444,120,179,125,14,1,96,3,caught,1, West Indies,Port of Spain,ODI ,11-08-2019,2
+445,114,127,99,14,0,115.15,3,not out,2, West Indies,Port of Spain,ODI ,14-08-2019,2
+446,9,-,12,2,0,75,4,caught,1, West Indies,North Sound,Test ,22-08-2019,2
+447,51,-,113,2,0,45.13,4,caught,3, West Indies,North Sound,Test ,22-08-2019,2
+448,76,211,163,10,0,46.62,4,caught,1, West Indies,Kingston,Test ,30-08-2019,2
+449,0,3,1,0,0,0,4,caught,3, West Indies,Kingston,Test ,30-08-2019,2
+450,72,66,52,4,3,138.46,3,not out,2, South Africa,Mohali,T20I ,18-09-2019,2
+451,9,28,15,0,0,60,3,caught,1, South Africa,Bengaluru,T20I ,22-09-2019,2
+452,20,-,40,4,0,50,4,caught,1, South Africa,Visakhapatnam,Test ,02-10-2019,2
+453,31,-,25,3,1,124,5,not out,3, South Africa,Visakhapatnam,Test ,02-10-2019,2
+454,254,-,336,33,2,75.59,4,not out,1, South Africa,Pune,Test ,10-10-2019,2
+455,12,-,22,2,0,54.54,4,lbw,1, South Africa,Ranchi,Test ,19-10-2019,2
+456,0,-,2,0,0,0,4,lbw,2, Bangladesh,Indore,Test ,14-11-2019,2
+457,136,-,194,18,0,70.1,4,caught,2, Bangladesh,Eden Gardens,Test ,22-11-2019,2
+458,94,-,50,6,6,188,3,not out,2, West Indies,Hyderabad,T20I ,06-12-2019,2
+459,19,-,17,2,0,111.76,4,caught,1, West Indies,Thiruvananthapuram,T20I ,08-12-2019,2
+460,70,-,29,4,7,241.37,4,not out,1, West Indies,Wankhede,T20I ,11-12-2019,2
+461,4,-,4,1,0,100,3,bowled,1, West Indies,Chennai,ODI ,15-12-2019,2
+462,0,-,1,0,0,0,3,caught,1, West Indies,Visakhapatnam,ODI ,18-12-2019,2
+463,85,-,81,9,0,104.93,3,bowled,2, West Indies,Cuttack,ODI ,22-12-2019,2
+465,30,-,17,1,2,176.47,4,not out,2, Sri Lanka,Indore,T20I ,07-01-2020,2
+466,26,-,17,2,1,152.94,6,run out,1, Sri Lanka,Pune,T20I ,10-01-2020,2
+467,16,-,14,0,1,114.28,4,caught,1, Australia,Wankhede,ODI ,14-01-2020,2
+468,78,-,76,6,0,102.63,3,caught,1, Australia,Rajkot,ODI ,17-01-2020,2
+469,89,-,91,8,0,97.8,3,bowled,2, Australia,Bengaluru,ODI ,19-01-2020,2
+470,45,-,32,3,1,140.62,3,caught,2, New Zealand,Auckland,T20I ,24-01-2020,2
+471,11,21,12,1,0,91.66,3,caught,2, New Zealand,Auckland,T20I ,26-01-2020,2
+472,38,31,27,2,1,140.74,4,caught,1, New Zealand,Hamilton,T20I ,29-01-2020,2
+473,11,16,9,2,0,122.22,3,caught,1, New Zealand,Wellington,T20I ,31-01-2020,2
+474,51,88,63,6,0,80.95,3,bowled,1, New Zealand,Hamilton,ODI ,05-02-2020,2
+475,15,31,25,1,0,60,3,bowled,2, New Zealand,Auckland,ODI ,08-02-2020,2
+476,9,20,12,0,1,75,3,caught,1, New Zealand,Mount Maunganui,ODI ,11-02-2020,2
+477,2,9,7,0,0,28.57,4,caught,1, New Zealand,Wellington,Test ,21-02-2020,2
+478,19,61,43,3,0,44.18,4,caught,3, New Zealand,Wellington,Test ,21-02-2020,2
+479,3,23,15,0,0,20,4,lbw,1, New Zealand,Christchurch,Test ,29-02-2020,2
+480,14,40,30,3,0,46.66,4,lbw,3, New Zealand,Christchurch,Test ,29-02-2020,2
+481,21,-,21,2,1,100,3,caught,2, Australia,Sydney,ODI ,27-11-2020,2
+482,89,-,87,7,2,102.29,3,caught,2, Australia,Sydney,ODI ,29-11-2020,2
+483,63,-,78,5,0,80.76,3,caught,1, Australia,Canberra,ODI ,02-12-2020,2
+484,9,-,9,1,0,100,3,caught,1, Australia,Canberra,T20I ,04-12-2020,2
+485,40,-,24,2,2,166.66,3,caught,2, Australia,Sydney,T20I ,06-12-2020,2
+486,85,-,61,4,3,139.34,3,caught,2, Australia,Sydney,T20I ,08-12-2020,2
+487,74,244,180,8,0,41.11,4,run out,1, Australia,Adelaide,Test ,17-12-2020,2
+488,4,13,8,1,0,50,5,caught,3, Australia,Adelaide,Test ,17-12-2020,2
+489,11,69,48,0,0,22.91,4,caught,2, England,Chennai,Test ,05-02-2021,2
+490,72,153,104,9,0,69.23,4,bowled,4, England,Chennai,Test ,05-02-2021,2
+491,0,6,5,0,0,0,4,bowled,1, England,Chennai,Test ,13-02-2021,2
+492,62,200,149,7,0,41.61,4,lbw,3, England,Chennai,Test ,13-02-2021,2
+493,27,85,58,3,0,46.55,4,bowled,2, England,Ahmedabad,Test ,24-02-2021,2
+495,0,13,8,0,0,0,4,caught,2, England,Ahmedabad,Test ,04-03-2021,2
+496,0,6,5,0,0,0,3,caught,1, England,Ahmedabad,T20I ,12-03-2021,2
+497,73,85,49,5,3,148.97,3,not out,2, England,Ahmedabad,T20I ,14-03-2021,2
+498,77,80,46,8,4,167.39,4,not out,1, England,Ahmedabad,T20I ,16-03-2021,2
+499,1,3,5,0,0,20,4,stumped,1, England,Ahmedabad,T20I ,18-03-2021,2
+500,80,103,52,7,2,153.84,2,not out,1, England,Ahmedabad,T20I ,20-03-2021,2
+501,56,65,60,6,0,93.33,3,caught,1, England,Pune,ODI ,23-03-2021,2
+502,66,110,79,3,1,83.54,3,caught,1, England,Pune,ODI ,26-03-2021,2
+503,7,14,10,1,0,70,3,bowled,1, England,Pune,ODI ,28-03-2021,2
+504,44,196,132,1,0,33.33,4,lbw,1, New Zealand,Southampton,Test ,18-06-2021,2
+505,13,43,29,0,0,44.82,4,caught,3, New Zealand,Southampton,Test ,18-06-2021,2
+506,0,2,1,0,0,0,4,caught,2, England,Nottingham,Test ,04-08-2021,2
+508,42,152,103,3,0,40.77,4,caught,1, England,Lord's,Test ,12-08-2021,2
+509,20,54,31,4,0,64.51,4,caught,3, England,Lord's,Test ,12-08-2021,2
+510,7,31,17,1,0,41.17,4,caught,1, England,Leeds,Test ,25-08-2021,2
+511,55,173,125,8,0,44,4,caught,3, England,Leeds,Test ,25-08-2021,2
+512,50,133,96,8,0,52.08,4,caught,1, England,The Oval,Test ,02-09-2021,2
+513,44,151,96,7,0,45.83,4,caught,3, England,The Oval,Test ,02-09-2021,2
+514,57,94,49,5,1,116.32,3,caught,1, Pakistan,Dubai (DSC),T20I ,24-10-2021,2
+515,9,20,17,0,0,52.94,4,caught,1, New Zealand,Dubai (DSC),T20I ,31-10-2021,2
+517,2,7,2,0,0,100,3,not out,2, Scotland,Dubai (DSC),T20I ,05-11-2021,2
+519,0,8,4,0,0,0,4,lbw,1, New Zealand,Wankhede,Test ,03-12-2021,2
+520,36,111,84,1,1,42.85,4,bowled,3, New Zealand,Wankhede,Test ,03-12-2021,2
+521,35,108,94,4,0,37.23,4,caught,1, South Africa,Centurion,Test ,26-12-2021,2
+522,18,41,32,4,0,56.25,5,caught,3, South Africa,Centurion,Test ,26-12-2021,2
+523,79,273,201,12,1,39.3,4,caught,1, South Africa,Cape Town,Test ,11-01-2022,2
+524,29,193,143,4,0,20.27,4,caught,3, South Africa,Cape Town,Test ,11-01-2022,2
+525,51,79,63,3,0,80.95,3,caught,2, South Africa,Paarl,ODI ,19-01-2022,2
+526,0,4,5,0,0,0,3,caught,1, South Africa,Paarl,ODI ,21-01-2022,2
+527,65,112,84,5,0,77.38,3,caught,2, South Africa,Cape Town,ODI ,23-01-2022,2
+528,8,6,4,2,0,200,3,caught,2, West Indies,Ahmedabad,ODI ,06-02-2022,2
+529,18,42,30,3,0,60,3,caught,1, West Indies,Ahmedabad,ODI ,09-02-2022,2
+530,0,2,2,0,0,0,3,caught,1, West Indies,Ahmedabad,ODI ,11-02-2022,2
+531,17,25,13,1,0,130.76,3,caught,2, West Indies,Eden Gardens,T20I ,16-02-2022,2
+532,52,57,41,7,1,126.82,3,bowled,1, West Indies,Eden Gardens,T20I ,18-02-2022,2
+533,45,106,76,5,0,59.21,4,bowled,1, Sri Lanka,Mohali,Test ,04-03-2022,2
+534,23,63,48,2,0,47.91,4,lbw,1, Sri Lanka,Bengaluru,Test ,12-03-2022,2
+535,13,27,16,1,0,81.25,4,lbw,3, Sri Lanka,Bengaluru,Test ,12-03-2022,2
+536,11,33,19,2,0,57.89,4,bowled,1, England,Birmingham,Test ,01-07-2022,2
+537,20,64,40,4,0,50,4,caught,3, England,Birmingham,Test ,01-07-2022,2
+538,1,8,3,0,0,33.33,3,caught,1, England,Birmingham,T20I ,09-07-2022,2
+539,11,8,6,1,1,183.33,3,caught,2, England,Nottingham,T20I ,10-07-2022,2
+540,16,39,25,3,0,64,3,caught,2, England,Lord's,ODI ,14-07-2022,2
+541,17,27,22,3,0,77.27,3,caught,2, England,Manchester,ODI ,17-07-2022,2
+542,35,47,34,3,1,102.94,3,caught,2, Pakistan,Dubai (DSC),T20I ,28-08-2022,2
+543,59,74,44,1,3,134.09,3,not out,1, Hong Kong,Dubai (DSC),T20I ,31-08-2022,2
+544,60,77,44,4,1,136.36,3,run out,1, Pakistan,Dubai (DSC),T20I ,04-09-2022,2
+545,0,6,4,0,0,0,3,bowled,1, Sri Lanka,Dubai (DSC),T20I ,06-09-2022,2
+546,122,90,61,12,6,200,2,not out,1, Afghanistan,Dubai (DSC),T20I ,08-09-2022,2
+547,2,12,7,0,0,28.57,3,caught,1, Australia,Mohali,T20I ,20-09-2022,2
+548,11,-,6,2,0,183.33,3,bowled,2, Australia,Nagpur,T20I ,23-09-2022,2
+549,63,89,48,3,4,131.25,3,caught,2, Australia,Hyderabad,T20I ,25-09-2022,2
+550,3,19,9,0,0,33.33,3,caught,2, South Africa,Thiruvananthapuram,T20I ,28-09-2022,2
+551,49,56,28,7,1,175,3,not out,1, South Africa,Guwahati,T20I ,02-10-2022,2
+552,82,98,53,6,4,154.71,3,not out,2, Pakistan,Melbourne,T20I ,23-10-2022,2
+553,62,79,44,3,2,140.9,3,not out,1, Netherlands,Sydney,T20I ,27-10-2022,2
+554,12,13,11,2,0,109.09,3,caught,1, South Africa,Perth,T20I ,30-10-2022,2
+555,64,84,44,8,1,145.45,3,not out,1, Bangladesh,Adelaide,T20I ,02-11-2022,2
+556,26,36,25,2,0,104,3,caught,1, Zimbabwe,Melbourne,T20I ,06-11-2022,2
+557,50,75,40,4,1,125,3,caught,1, England,Adelaide,T20I ,10-11-2022,2
+558,9,22,15,1,0,60,3,caught,1, Bangladesh,Mirpur,ODI ,04-12-2022,2
+559,5,9,6,1,0,83.33,1,bowled,2, Bangladesh,Mirpur,ODI ,07-12-2022,2
+560,113,174,91,11,2,124.17,3,caught,1, Bangladesh,Chattogram,ODI ,10-12-2022,2
+561,1,8,5,0,0,20,4,lbw,1, Bangladesh,Chattogram,Test ,14-12-2022,2
+562,19,40,29,0,0,65.51,4,not out,3, Bangladesh,Chattogram,Test ,14-12-2022,2
+563,24,91,73,3,0,32.87,4,caught,2, Bangladesh,Mirpur,Test ,22-12-2022,2
+564,1,20,22,0,0,4.54,5,caught,4, Bangladesh,Mirpur,Test ,22-12-2022,2
+565,113,117,87,12,1,129.88,3,caught,1, Sri Lanka,Guwahati,ODI ,10-01-2023,2
+566,4,27,9,1,0,44.44,3,bowled,2, Sri Lanka,Eden Gardens,ODI ,12-01-2023,2
+567,166,173,110,13,8,150.9,3,not out,1, Sri Lanka,Thiruvananthapuram,ODI ,15-01-2023,2
+568,8,16,10,1,0,80,3,bowled,1, New Zealand,Hyderabad,ODI ,18-01-2023,2
+569,11,19,9,2,0,122.22,3,stumped,2, New Zealand,Raipur,ODI ,21-01-2023,2
+570,36,44,27,3,1,133.33,3,caught,1, New Zealand,Indore,ODI ,24-01-2023,2
+571,12,27,26,2,0,46.15,5,caught,2, Australia,Nagpur,Test ,09-02-2023,2
+572,44,127,84,4,0,52.38,4,lbw,2, Australia,Delhi,Test ,17-02-2023,2
+573,20,47,31,3,0,64.51,4,stumped,4, Australia,Delhi,Test ,17-02-2023,2
+574,22,64,52,2,0,42.3,4,lbw,1, Australia,Indore,Test ,01-03-2023,2
+575,13,35,26,2,0,50,4,lbw,3, Australia,Indore,Test ,01-03-2023,2
+576,186,517,364,15,0,51.09,4,caught,2, Australia,Ahmedabad,Test ,09-03-2023,2
+577,4,15,9,1,0,44.44,3,lbw,2, Australia,Wankhede,ODI ,17-03-2023,2
+578,31,79,35,4,0,88.57,3,lbw,1, Australia,Visakhapatnam,ODI ,19-03-2023,2
+579,54,118,72,2,1,75,3,caught,2, Australia,Chennai,ODI ,22-03-2023,2
+580,14,56,31,2,0,45.16,4,caught,2, Australia,The Oval,Test ,07-06-2023,2
+581,49,115,78,7,0,62.82,4,caught,4, Australia,The Oval,Test ,07-06-2023,2
+582,76,262,182,5,0,41.75,4,caught,2, West Indies,Roseau,Test ,12-07-2023,2
+583,121,272,206,11,0,58.73,4,run out,1, West Indies,Port of Spain,Test ,20-07-2023,2
+586,4,8,7,1,0,57.14,3,bowled,1, Pakistan,Pallekele,ODI ,02-09-2023,2
+588,122,147,94,9,3,129.78,3,not out,1, Pakistan,Colombo (RPS),ODI ,10-09-2023,2
+589,3,12,12,0,0,25,3,caught,1, Sri Lanka,Colombo (RPS),ODI ,12-09-2023,2
+591,56,63,61,5,1,91.8,3,caught,2, Australia,Rajkot,ODI ,27-09-2023,2
+592,85,171,116,6,0,73.27,3,caught,2, Australia,Chennai,ODI ,08-10-2023,2

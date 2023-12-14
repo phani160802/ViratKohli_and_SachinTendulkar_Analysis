@@ -16,7 +16,7 @@ from streamlit_lottie import st_lottie
 
 @st.cache_data()    
 def load_virat_file():
-    virat_df = pd.read_csv('final_virat_stat.csv')
+    virat_df = pd.read_csv('./Data/final_virat_stat.csv')
     virat_df['Opposition'] = virat_df['Opposition'].str.strip()
     virat_df['SR'] = pd.to_numeric(virat_df['SR'].replace('-', 0))
     virat_df['Inns'] = pd.to_numeric(virat_df['Inns'].replace('-', 0))
@@ -27,7 +27,7 @@ def load_virat_file():
 
 @st.cache_data()    
 def load_sachin_file():
-    sachin_df = pd.read_csv('final_sachin_stats.csv')
+    sachin_df = pd.read_csv('./Data/final_sachin_stats.csv')
     sachin_df['Opposition'] = sachin_df['Opposition'].str.strip()
     sachin_df['SR'] = pd.to_numeric(sachin_df['SR'].replace('-', 0))
     sachin_df['4s'] = pd.to_numeric(sachin_df['4s'].replace('-', 0))

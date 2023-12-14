@@ -170,7 +170,8 @@ def show_runs(virat_df,sachin_df):
                 # Show the plot
                 st.pyplot(fig)
 
-                st.markdown("Confused about what Plots actually convey!!!")
+                st.markdown("#### Confused about what plots actually convey!!!")
+                st.markdown("Select Opposition filters as England, Zimbabwe, Austrailia, and South Africa.")
                 st.markdown("From the Average Strike Rate Plot it is quite evident that Virat Kohli has scored runs with a much higher strike rate than sachin tendulkar.")
                 st.markdown("Virat Kohli outshines Sachin Tendulkar with a striking display of aggression and adaptability. Virat's ability to score at a blistering pace sets him apart, making him the go-to player, especially in the fast-paced realms of ODIs and T20Is, where rapid scoring reigns supreme.")
 

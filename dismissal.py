@@ -8,7 +8,10 @@ def show_dismissal(virat_df,sachin_df):
 
     st.markdown("Here, you can look at the type of dismissal statistics of each player in respective Match Format")
 
-    opposition_filter = st.selectbox("Select Opposition:", ['All'] + virat_df['Opposition'].unique().tolist(), index=0)
+
+    opposition_list = ['Australia','Sri Lanka','New Zealand','Bangladesh','West Indies']
+
+    opposition_filter = st.selectbox("Select Opposition:", ['All']+opposition_list, index=0)
 
     tab1, tab2, tab3,tab4 = st.tabs(["All", "Test", "ODI","T20I"])
     with tab1:
@@ -188,6 +191,10 @@ def show_dismissal(virat_df,sachin_df):
                         sub_sachin_df = sachin_T20_df[sachin_df['Opposition']==opposition_filter]
                         virat_dismissal_counts = pd.crosstab(sub_virat_df['Dismissal'], columns='count')
                         sachin_dismissal_counts = pd.crosstab(sub_sachin_df['Dismissal'], columns='count')
+
+                        if sub_virat_df.empty or sub_sachin_df.empty:
+                                st.warning("No data available for the selected filters.")
+                                return
 
                         st.markdown('#### Virat Kohli Dismissal Types Heatmap')
                         fig_virat, ax_virat = plt.subplots(figsize=(10, 4))

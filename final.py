@@ -10,10 +10,11 @@ from boundaries import show_boundaries
 from runs import show_runs
 from dismissal import show_dismissal
 from prediction import show_prediction
-import json
 import requests  
 from streamlit_lottie import st_lottie  
 
+
+# Caching the Datasets
 @st.cache_data()    
 def load_virat_file():
     virat_df = pd.read_csv('./Data/final_virat_stat.csv')
@@ -36,7 +37,7 @@ def load_sachin_file():
     sachin_df.drop("Unnamed: 0",axis=1,inplace=True)
     return(sachin_df)
 
-
+# Loading Datasets
 virat_df = load_virat_file()
 
 sachin_df = load_sachin_file()
@@ -52,10 +53,6 @@ def load_lottieurl(url: str):
 lottie_hello = load_lottieurl("https://lottie.host/3c812719-2de8-4e54-829e-6123a58617dd/6gVnfh5iZH.json")
 
 # Sidebar for navigation
-
-# st.sidebar.title('Welcome to Cric Stats')
-
-
 selected = st.sidebar.radio('Pick a criteria to analyze:', ['Home Page','Centuries','Runs','Dismissal','Prediction Game'],index=0)
 
 
@@ -80,6 +77,8 @@ elif selected == 'Prediction Game':
     show_prediction(virat_df,sachin_df)
 
 elif selected == 'Home Page':
+
+    # Calculating Overall Stats of players
     v_totalruns = virat_df['Runs'].sum()
     v_totalmatches = virat_df['Runs'].count()
     v_totalcenturies = virat_df[virat_df['Runs']>=100].shape[0]
@@ -92,7 +91,7 @@ elif selected == 'Home Page':
     s_avgstrikerate = sachin_df['SR'].mean()
 
 
-
+    # Creating Data Frame
     data = {'Player': ['Virat Kohli', 'Sachin Tendulkar'],
             'Total Matches Played': [v_totalmatches,s_totalmatches],
             'Total Runs': [v_totalruns,s_totalruns],

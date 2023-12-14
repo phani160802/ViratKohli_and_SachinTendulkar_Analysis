@@ -7,7 +7,7 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn.tree import DecisionTreeClassifier
 
 
-
+# Object for Decision Tree
 dt = DecisionTreeClassifier(max_depth=5,min_samples_leaf=15,random_state=42)
 
 def show_prediction(virat_df,sachin_df):
@@ -17,25 +17,19 @@ def show_prediction(virat_df,sachin_df):
     st.markdown("Here, you have the chance to forecast outcomes such as a player's run tally based on specific parameters or predict how a player might be dismissed against particular opposition.")
 
     target_variable = st.selectbox("Select the outcome which you want to be predicted...",['Runs','Dismissal'])
-
-    
-    
     grounds_list = ['Colombo (RPS)','Johannesburg','Mohali','Nagpur','Mirpur','Ahmedabad','Wankhede','Hyderabad','Melbourne']
-
-
     opposition_list = ['Australia','Sri Lanka','New Zealand','Pakistan']
-
-    #virat_df = virat_df[virat_df['Ground'].isin(grounds_list)]
     sachin_df=sachin_df[sachin_df['Ground'].isin(grounds_list)]
     
 
-    #ground_list.remove('Kingston','Canberra','Centurion','Paarl','Wellington','Gqeberha','Hamilton','Napier','Bulawayo','Leeds','')
+    # User Selection
     if target_variable == 'Dismissal':
-        st.write("Classification algorithm should be used")
+        st.write("Classification algorithm should be used.")
         match_filter = st.sidebar.selectbox("Select Match Type:", virat_df['Match Type'].unique().tolist(), index=0)
         ground_filter = st.sidebar.selectbox("Select Ground:", grounds_list, index=0)
         opposition_filter = st.sidebar.selectbox("Select Opposition:",opposition_list, index=0)
 
+        # Encoding Categorical Variables
         le_opposition = LabelEncoder()
         le_ground = LabelEncoder()
         le_match_type = LabelEncoder()
@@ -64,22 +58,23 @@ def show_prediction(virat_df,sachin_df):
                 sampled_data = sampled_data.drop(sampled_data[sampled_data['Dismissal'] == 'not out'].index)
 
 
-
+                # Encoding Datasets
                 sampled_data['Match Type'] = le_match_type.fit_transform(sampled_data['Match Type'])
                 sampled_data['Ground'] = le_ground.fit_transform(sampled_data['Ground'])
                 sampled_data['Opposition'] = le_opposition.fit_transform(sampled_data['Opposition'])
                 sampled_data['Dismissal'] = le_dismissal.fit_transform(sampled_data['Dismissal'])
                 
+                # Encoding Categorical variables in user input
                 user_input_df = pd.DataFrame([user_input])
                 user_input_df['Match Type'] = le_match_type.transform([user_input_df['Match Type']])
                 user_input_df['Opposition'] = le_opposition.transform([user_input_df['Opposition']])
                 user_input_df['Ground'] = le_ground.transform([user_input_df['Ground']])
 
-
+                # Dependent and Independent Variables
                 x_train = sampled_data[['Match Type','Ground','Opposition']]
                 y_train = sampled_data['Dismissal']
 
-                # dt = DecisionTreeClassifier(max_depth=5,min_samples_leaf=15,random_state=42)
+                # Model fitting and predicting
 
                 dt.fit(x_train,y_train)
 
@@ -105,7 +100,7 @@ def show_prediction(virat_df,sachin_df):
                 sampled_data = sampled_data.drop(sampled_data[sampled_data['Dismissal'] == 'not out'].index)
 
 
-
+                # Encoding input and base dataset.
                 sampled_data['Match Type'] = le_match_type.fit_transform(sampled_data['Match Type'])
                 sampled_data['Ground'] = le_ground.fit_transform(sampled_data['Ground'])
                 sampled_data['Opposition'] = le_opposition.fit_transform(sampled_data['Opposition'])
@@ -117,7 +112,7 @@ def show_prediction(virat_df,sachin_df):
                 user_input_df['Opposition'] = le_opposition.transform([user_input_df['Opposition']])
                 user_input_df['Ground'] = le_ground.transform([user_input_df['Ground']])
 
-
+                # Model Fitting and training
                 x_train = sampled_data[['Match Type','Ground','Opposition']]
                 y_train = sampled_data['Dismissal']
 

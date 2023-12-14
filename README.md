@@ -19,7 +19,7 @@ https://stats.espncricinfo.com/ci/engine/player/35320.html?class=11;template=res
 
 ## Data Pre-Processing
  The raw data has a lot of unwanted and wrongly formatted data. So the main task after scraping the data was to clean  it and convert it into the format I wanted.
- -- Steps Performed in Data Pre-Processing
+ --**Steps Performed in Data Pre-Processing**
 1. Changing the Date format: The Date column has a time attribute associated with it. So It has been processed to only get Date and changed the format to Date format.
 2. Adding Match Type Column: The match type has been included in the opposition column. So that needs to be stripped and converted into two columns opposition and Match Type.
 3. Formatting Runs and Opposition Column
